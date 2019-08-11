@@ -1,18 +1,6 @@
-def createfile():
-    try:
-        with open('file.txt','wb+') as f:
-            f.write(b'ceshiwenjia')
-    except Exception as e:
-        print(e)
-    finally:
-        with open('file.txt','r+') as f:
-            s = f.readlines()
-            print(s)
-
-
+def get_line(fp):
+    with open(fp,'rb+') as f:
+        return f.readlines()
 
 if __name__ == '__main__':
-    for li in [1,3,5,56,6,66]:
-        print(li)
-
-
+    print(type(get_line('file.txt')))
