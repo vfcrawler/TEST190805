@@ -1,20 +1,21 @@
-def multi():
+def multi1():
     return [lambda x : i*x for i in range(4)]
 
-# 可以写成以下方式
-def multi1():
+def multi2():
     ret = []
     for i in range(4):
-        def fun1(x):
+        def fun(x):
             return i*x
-        ret.append(fun1)
+        ret.append(fun)
     return ret
 
 print('第1种方法返回：')
-print([m(3) for m in multi()])
-
+for m in multi1():
+    print(m(2))
 print('第2种方法返回：')
-print([m(3) for m in multi1()])
+for m in multi2():
+    print(m(2))
+
 
 
 
