@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9faf001d-7cba-403b-a27b-dd12e82ddb7d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Sample/MaoYan/maoYanSpider_01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sample/MaoYan/maoYanSpider.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sample/MaoYan/MaoYan.txt" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,29 +13,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Sample/MaoYan/maoYanSpider_01.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="276">
-              <caret line="51" column="40" selection-start-line="51" selection-start-column="28" selection-end-line="51" selection-end-column="40" />
-              <folding>
-                <element signature="e#0#11#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Sample/MaoYan/MaoYan.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="92">
-              <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -54,9 +33,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Urllib/parse/urlparse_05.py" />
-        <option value="$PROJECT_DIR$/Urllib/parse/urlparse_06.py" />
-        <option value="$PROJECT_DIR$/Urllib/parse/urlunparse_01.py" />
         <option value="$PROJECT_DIR$/Urllib/parse/urlunparse_02.py" />
         <option value="$PROJECT_DIR$/Urllib/parse/urlsplit_01.py" />
         <option value="$PROJECT_DIR$/Urllib/parse/urlsplit_02.py" />
@@ -105,6 +81,9 @@
         <option value="$PROJECT_DIR$/Requests/preprared_request_02.py" />
         <option value="$PROJECT_DIR$/Requests/prepared_request_01.py" />
         <option value="$PROJECT_DIR$/Sample/MaoYan/maoYanSpider_01.py" />
+        <option value="$PROJECT_DIR$/Sample/MaoYan/MaoYan.txt" />
+        <option value="$PROJECT_DIR$/Sample/MaoYan/MaoYan1.txt" />
+        <option value="$PROJECT_DIR$/Sample/MaoYan/maoYanSpider.py" />
       </list>
     </option>
   </component>
@@ -120,7 +99,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -128,21 +106,11 @@
               <item name="TEST190805" type="b2602c69:ProjectViewProjectNode" />
               <item name="TEST190805" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="TEST190805" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TEST190805" type="462c0819:PsiDirectoryNode" />
-              <item name="Sample" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TEST190805" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TEST190805" type="462c0819:PsiDirectoryNode" />
-              <item name="Sample" type="462c0819:PsiDirectoryNode" />
-              <item name="MaoYan" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -170,8 +138,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.maoYanSpider_01">
-    <configuration name="auth_03" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.maoYanSpider">
+    <configuration name="maoYanSpider" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="TEST190805" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -179,12 +147,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Requests" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Sample/MaoYan" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Requests/auth_03.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sample/MaoYan/maoYanSpider.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -283,11 +251,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.maoYanSpider" />
         <item itemvalue="Python.maoYanSpider_01" />
         <item itemvalue="Python.prepared_request_01" />
         <item itemvalue="Python.preprared_request_02" />
         <item itemvalue="Python.session_01" />
-        <item itemvalue="Python.auth_03" />
       </list>
     </recent_temporary>
   </component>
@@ -323,6 +291,9 @@
       <workItem from="1566521088825" duration="24412000" />
       <workItem from="1566610422239" duration="14226000" />
       <workItem from="1566655912381" duration="4898000" />
+      <workItem from="1566660892689" duration="114000" />
+      <workItem from="1566663586020" duration="801000" />
+      <workItem from="1566693250643" duration="4763000" />
     </task>
     <task id="LOCAL-00001" summary="20190811">
       <created>1565526004138</created>
@@ -471,11 +442,25 @@
       <option name="project" value="LOCAL" />
       <updated>1566650206300</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="201908241135增加">
+      <created>1566660932180</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1566660932180</updated>
+    </task>
+    <task id="LOCAL-00023" summary="201908241135增加">
+      <created>1566660981597</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1566660981597</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="223539000" />
+    <option name="totallyTimeSpent" value="229217000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -491,10 +476,10 @@
     <layout>
       <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="1" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.20442359" />
+      <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.20978552" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4977307" weight="0.45042494" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.2082153" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4977307" visible="true" weight="0.44334278" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.51967216" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -502,7 +487,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49924356" weight="0.71967214" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50226927" side_tool="true" weight="0.69508195" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50226927" side_tool="true" weight="0.6926346" />
       <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49924356" weight="0.36827195" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.7577904" />
       <window_info anchor="bottom" id="Messages" order="13" sideWeight="0.49924356" weight="0.3295082" />
@@ -535,7 +520,8 @@
     <MESSAGE value="5555555" />
     <MESSAGE value="201908211647增加" />
     <MESSAGE value="201908240824增加" />
-    <option name="LAST_COMMIT_MESSAGE" value="201908240824增加" />
+    <MESSAGE value="201908241135增加" />
+    <option name="LAST_COMMIT_MESSAGE" value="201908241135增加" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
@@ -688,6 +674,7 @@
     <SUITE FILE_PATH="coverage/MS$urlparse_04.coverage" NAME="urlparse_04 Coverage Results" MODIFIED="1566442610792" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Urllib/parse" />
     <SUITE FILE_PATH="coverage/TEST190805$11.coverage" NAME="11 Coverage Results" MODIFIED="1565353334563" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/MS$get_02.coverage" NAME="get_02 Coverage Results" MODIFIED="1566522473432" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Requests" />
+    <SUITE FILE_PATH="coverage/TEST190805$maoYanSpider.coverage" NAME="maoYanSpider Coverage Results" MODIFIED="1566697410529" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sample/MaoYan" />
     <SUITE FILE_PATH="coverage/MS$proxies_01.coverage" NAME="proxies_01 Coverage Results" MODIFIED="1566553963120" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Requests" />
     <SUITE FILE_PATH="coverage/TEST190805$33.coverage" NAME="33 Coverage Results" MODIFIED="1565831851046" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/MS$Opener_05.coverage" NAME="Opener_05 Coverage Results" MODIFIED="1566375586997" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Urllib/request" />
@@ -704,20 +691,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Urllib/parse/parse_qs_01.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="52">
-          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Urllib/parse/parse_qsl_01.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="4" column="36" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Urllib/parse/quote_01.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="104">
@@ -1055,19 +1028,32 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Sample/MaoYan/MaoYan1.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/Sample/MaoYan/MaoYan.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
+        <state relative-caret-position="-3910">
+          <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Sample/MaoYan/maoYanSpider_01.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="51" column="40" selection-start-line="51" selection-start-column="28" selection-end-line="51" selection-end-column="40" />
+        <state relative-caret-position="-34">
+          <caret line="49" column="32" lean-forward="true" selection-start-line="49" selection-start-column="32" selection-end-line="49" selection-end-column="32" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sample/MaoYan/maoYanSpider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
+          <folding>
+            <element signature="e#13#24#0" expanded="true" />
           </folding>
         </state>
       </provider>
