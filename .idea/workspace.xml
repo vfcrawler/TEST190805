@@ -2,26 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9faf001d-7cba-403b-a27b-dd12e82ddb7d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Xpath/test.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Xpath/xpath_01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Xpath/xpath_02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Xpath/xpath_03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Xpath/xpath_04.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Xpath/xpath_05.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Xpath/xpath_06.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Xpath/xpath_07.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Xpath/xpath_08.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Xpath/xpath_09.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Xpath/xpath_10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Xpath/xpath_11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Xpath/xpath_12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Xpath/xpath_13.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Xpath/xpath_14.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Xpath/xpath_15.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Xpath/xpath_16.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Xpath/xpath_17.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Xpath/xpath_18.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Xpath/xpath_19.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Beautiful Soup/bsp_01.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/正则表达式.docx" beforeDir="false" afterPath="$PROJECT_DIR$/正则表达式.docx" afterDir="false" />
     </list>
@@ -32,26 +13,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Xpath/xpath_18.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
-              <caret line="22" column="13" selection-start-line="22" selection-start-column="2" selection-end-line="22" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Xpath/xpath_19.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="123">
-              <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -71,7 +33,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Requests/get_07.py" />
         <option value="$PROJECT_DIR$/Requests/get_08.py" />
         <option value="$PROJECT_DIR$/Requests/get_09.py" />
         <option value="$PROJECT_DIR$/Requests/get_10.py" />
@@ -122,6 +83,7 @@
         <option value="$PROJECT_DIR$/Xpath/xpath_17.py" />
         <option value="$PROJECT_DIR$/Xpath/xpath_18.py" />
         <option value="$PROJECT_DIR$/Xpath/xpath_19.py" />
+        <option value="$PROJECT_DIR$/Beautiful Soup/bsp_01.py" />
       </list>
     </option>
   </component>
@@ -143,11 +105,6 @@
             <path>
               <item name="TEST190805" type="b2602c69:ProjectViewProjectNode" />
               <item name="TEST190805" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TEST190805" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TEST190805" type="462c0819:PsiDirectoryNode" />
-              <item name="Xpath" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -181,8 +138,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.xpath_19">
-    <configuration name="xpath_15" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.bsp_01">
+    <configuration name="bsp_01" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="TEST190805" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -190,12 +147,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Xpath" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Beautiful Soup" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Xpath/xpath_15.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Beautiful Soup/bsp_01.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -294,11 +251,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.bsp_01" />
         <item itemvalue="Python.xpath_19" />
         <item itemvalue="Python.xpath_18" />
         <item itemvalue="Python.xpath_17" />
         <item itemvalue="Python.xpath_16" />
-        <item itemvalue="Python.xpath_15" />
       </list>
     </recent_temporary>
   </component>
@@ -336,7 +293,7 @@
       <workItem from="1566655912381" duration="4898000" />
       <workItem from="1566660892689" duration="114000" />
       <workItem from="1566663586020" duration="801000" />
-      <workItem from="1566693250643" duration="22386000" />
+      <workItem from="1566693250643" duration="24934000" />
     </task>
     <task id="LOCAL-00001" summary="20190811">
       <created>1565526004138</created>
@@ -506,11 +463,18 @@
       <option name="project" value="LOCAL" />
       <updated>1566700179313</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="201908250810增加">
+      <created>1566735050051</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1566735050051</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="246840000" />
+    <option name="totallyTimeSpent" value="249388000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -526,10 +490,10 @@
     <layout>
       <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="1" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="2" weight="0.20978552" />
+      <window_info content_ui="combo" id="Project" order="2" visible="true" weight="0.20978552" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.2082153" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4977307" visible="true" weight="0.67280453" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4977307" visible="true" weight="0.7322946" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.5184136" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -538,7 +502,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49924356" weight="0.71967214" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50226927" side_tool="true" weight="0.6926346" />
-      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49924356" weight="0.29461756" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49924356" weight="0.38526914" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.7577904" />
       <window_info anchor="bottom" id="Messages" order="13" sideWeight="0.49924356" weight="0.3295082" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -571,7 +535,8 @@
     <MESSAGE value="201908211647增加" />
     <MESSAGE value="201908240824增加" />
     <MESSAGE value="201908241135增加" />
-    <option name="LAST_COMMIT_MESSAGE" value="201908241135增加" />
+    <MESSAGE value="201908250810增加" />
+    <option name="LAST_COMMIT_MESSAGE" value="201908250810增加" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
@@ -627,6 +592,7 @@
     <SUITE FILE_PATH="coverage/MS$04_sub_01.coverage" NAME="04_sub_01 Coverage Results" MODIFIED="1566267560825" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Regex" />
     <SUITE FILE_PATH="coverage/TEST190805$10_01.coverage" NAME="10_01 Coverage Results" MODIFIED="1565318700493" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/MS$04_sub_04.coverage" NAME="04_sub_04 Coverage Results" MODIFIED="1566286779779" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Regex" />
+    <SUITE FILE_PATH="coverage/TEST190805$bsp_01.coverage" NAME="bsp_01 Coverage Results" MODIFIED="1566746183326" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Beautiful Soup" />
     <SUITE FILE_PATH="coverage/MS$get_11.coverage" NAME="get_11 Coverage Results" MODIFIED="1566539972352" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Requests" />
     <SUITE FILE_PATH="coverage/TEST190805$110_13_01.coverage" NAME="110_13_01 Coverage Results" MODIFIED="1566045486631" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/MS$robotparser_02.coverage" NAME="robotparser_02 Coverage Results" MODIFIED="1566458091512" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Urllib/robotparser" />
@@ -760,13 +726,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Requests/SSL_02.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="52">
-          <caret line="2" selection-start-line="2" selection-end-line="8" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Requests/SSL_03.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
@@ -1129,6 +1088,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Xpath/xpath_19.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Xpath/xpath_18.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="230">
@@ -1136,10 +1102,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Xpath/xpath_19.py">
+    <entry file="file://$PROJECT_DIR$/Beautiful Soup/bsp_01.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="123">
-          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+        <state relative-caret-position="115">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
