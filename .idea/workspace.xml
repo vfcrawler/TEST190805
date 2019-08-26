@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9faf001d-7cba-403b-a27b-dd12e82ddb7d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Beautiful Soup/bsp_01.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/正则表达式.docx" beforeDir="false" afterPath="$PROJECT_DIR$/正则表达式.docx" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,7 +11,90 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Beautiful Soup/bsp_01.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-63">
+              <caret column="8" selection-start-column="5" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Xpath/xpath_08.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="22" selection-start-column="22" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Requests/auth_01.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="67">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Requests/SSL_01.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Requests/requests_01.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Requests/proxies_03.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="208">
+              <caret line="8" column="21" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Requests/proxies_02.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="26">
+              <caret line="1" column="14" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="14" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Requests/auth_03.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="26">
+              <caret line="1" column="15" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
+              <folding>
+                <element signature="e#0#24#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Requests/auth_02.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="161">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -103,8 +184,23 @@
         <subPane>
           <expand>
             <path>
-              <item name="TEST190805" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TEST190805" type="462c0819:PsiDirectoryNode" />
+              <item name="MS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MS" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MS" type="462c0819:PsiDirectoryNode" />
+              <item name="Beautiful Soup" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MS" type="462c0819:PsiDirectoryNode" />
+              <item name="Urllib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MS" type="462c0819:PsiDirectoryNode" />
+              <item name="Xpath" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -294,6 +390,7 @@
       <workItem from="1566660892689" duration="114000" />
       <workItem from="1566663586020" duration="801000" />
       <workItem from="1566693250643" duration="24934000" />
+      <workItem from="1566781463349" duration="854000" />
     </task>
     <task id="LOCAL-00001" summary="20190811">
       <created>1565526004138</created>
@@ -470,11 +567,25 @@
       <option name="project" value="LOCAL" />
       <updated>1566735050051</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="201908250810增加">
+      <created>1566781526293</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1566781526293</updated>
+    </task>
+    <task id="LOCAL-00027" summary="201908260916增加">
+      <created>1566782215615</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1566782215615</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="249388000" />
+    <option name="totallyTimeSpent" value="250242000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -486,11 +597,11 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
       <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="1" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="2" visible="true" weight="0.20978552" />
+      <window_info content_ui="combo" id="Project" order="2" visible="true" weight="0.21255673" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.2082153" />
       <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4977307" visible="true" weight="0.7322946" />
@@ -501,8 +612,8 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49924356" weight="0.71967214" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50226927" side_tool="true" weight="0.6926346" />
-      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49924356" weight="0.38526914" />
+      <window_info active="true" anchor="bottom" id="Event Log" order="10" sideWeight="0.50226927" side_tool="true" visible="true" weight="0.65737706" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.4977307" visible="true" weight="0.65737706" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.7577904" />
       <window_info anchor="bottom" id="Messages" order="13" sideWeight="0.49924356" weight="0.3295082" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -536,7 +647,8 @@
     <MESSAGE value="201908240824增加" />
     <MESSAGE value="201908241135增加" />
     <MESSAGE value="201908250810增加" />
-    <option name="LAST_COMMIT_MESSAGE" value="201908250810增加" />
+    <MESSAGE value="201908260916增加" />
+    <option name="LAST_COMMIT_MESSAGE" value="201908260916增加" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
@@ -726,26 +838,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Requests/SSL_03.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="7" column="8" selection-end-line="11" selection-end-column="22" />
-          <folding>
-            <element signature="e#0#14#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Requests/SSL_04.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
-          <folding>
-            <element signature="e#0#14#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Requests/SSL_05.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="130">
@@ -757,16 +849,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="207">
           <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Requests/proxies_02.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -784,13 +866,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="115">
           <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Requests/proxies_03.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="7" column="73" selection-start-line="7" selection-start-column="73" selection-end-line="7" selection-end-column="73" />
         </state>
       </provider>
     </entry>
@@ -825,47 +900,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://D:/DevApp/Anaconda3/envs/python36/Lib/site-packages/requests/adapters.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1442">
-          <caret line="448" selection-start-line="448" selection-end-line="448" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Requests/auth_01.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Requests/auth_02.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/DevApp/Anaconda3/envs/python36/Lib/site-packages/requests_oauthlib/oauth1_auth.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="163">
-          <caret line="29" column="25" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Requests/auth_03.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-          <folding>
-            <element signature="e#0#24#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://D:/DevApp/Anaconda3/envs/python36/Lib/site-packages/requests/adapters.py" />
+    <entry file="file://D:/DevApp/Anaconda3/envs/python36/Lib/site-packages/requests_oauthlib/oauth1_auth.py" />
     <entry file="file://$PROJECT_DIR$/Requests/session_01.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="46">
@@ -873,20 +909,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://D:/DevApp/Anaconda3/envs/python36/Lib/site-packages/requests/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="212">
-          <caret line="228" selection-start-line="228" selection-end-line="228" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/DevApp/Anaconda3/envs/python36/Lib/site-packages/requests/api.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="74" column="18" selection-start-line="74" selection-start-column="11" selection-end-line="74" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://D:/DevApp/Anaconda3/envs/python36/Lib/site-packages/requests/models.py" />
+    <entry file="file://D:/DevApp/Anaconda3/envs/python36/Lib/site-packages/requests/api.py" />
     <entry file="file://$PROJECT_DIR$/Requests/preprared_request_02.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="103">
@@ -894,13 +918,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://D:/DevApp/Anaconda3/envs/python36/Lib/site-packages/requests/sessions.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="141">
-          <caret line="425" column="8" selection-start-line="425" selection-start-column="8" selection-end-line="425" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://D:/DevApp/Anaconda3/envs/python36/Lib/site-packages/requests/sessions.py" />
     <entry file="file://$PROJECT_DIR$/Requests/prepared_request_01.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="644">
@@ -911,9 +929,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Sample/MaoYan/MaoYan1.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Sample/MaoYan/MaoYan1.txt" />
     <entry file="file://$PROJECT_DIR$/Sample/MaoYan/MaoYan.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-3910">
@@ -948,20 +964,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/-1762199816/lxml/etree/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="227" column="14" selection-start-line="227" selection-start-column="14" selection-end-line="227" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/-1762199816/lxml/etree/HTMLParser.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="11" column="28" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/-1762199816/lxml/etree/__init__.py" />
+    <entry file="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/-1762199816/lxml/etree/HTMLParser.py" />
     <entry file="file://$PROJECT_DIR$/Xpath/xpath_02.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="115">
@@ -1001,13 +1005,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="115">
           <caret line="5" column="38" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Xpath/xpath_08.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="6" selection-start-line="5" selection-end-line="6" />
         </state>
       </provider>
     </entry>
@@ -1067,13 +1064,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Xpath/xpath_01.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="13" column="3" lean-forward="true" selection-start-line="3" selection-end-line="13" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Xpath/xpath_17.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="92">
@@ -1102,10 +1092,74 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Xpath/xpath_01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="24" column="23" lean-forward="true" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Beautiful Soup/bsp_01.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        <state relative-caret-position="-63">
+          <caret column="8" selection-start-column="5" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Xpath/xpath_08.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="22" selection-start-column="22" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Requests/SSL_01.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Requests/requests_01.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Requests/proxies_03.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="8" column="21" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Requests/proxies_02.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="1" column="14" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Requests/auth_03.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="1" column="15" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
+          <folding>
+            <element signature="e#0#24#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Requests/auth_02.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Requests/auth_01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="67">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
