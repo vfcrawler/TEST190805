@@ -2,23 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9faf001d-7cba-403b-a27b-dd12e82ddb7d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Beautiful Soup/bs_04.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Beautiful Soup/bs_05.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Beautiful Soup/bsp_06.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Beautiful Soup/bsp_07.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Beautiful Soup/bsp_08.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Beautiful Soup/bsp_09.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Beautiful Soup/bsp_10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Beautiful Soup/bsp_11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Beautiful Soup/bsp_12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Beautiful Soup/bsp_13.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Beautiful Soup/bsp_14.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Beautiful Soup/bsp_15.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Beautiful Soup/bsp_16.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Beautiful Soup/bsp_17.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Beautiful Soup/bsp_18.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/正则表达式.docx" beforeDir="false" afterPath="$PROJECT_DIR$/正则表达式.docx" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -113,7 +97,17 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="TEST190805" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TEST190805" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="Scope" />
     </panes>
   </component>
@@ -127,6 +121,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\PyWorkSpace\Study\TEST190805\Beautiful Soup" />
       <recent name="F:\PyWorkSpace\Study\TEST190805" />
     </key>
   </component>
@@ -300,7 +295,7 @@
       <workItem from="1566693250643" duration="24934000" />
       <workItem from="1566781463349" duration="854000" />
       <workItem from="1566821482880" duration="5604000" />
-      <workItem from="1566919078195" duration="271000" />
+      <workItem from="1566919078195" duration="952000" />
     </task>
     <task id="LOCAL-00001" summary="20190811">
       <created>1565526004138</created>
@@ -498,11 +493,18 @@
       <option name="project" value="LOCAL" />
       <updated>1566833023840</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="201908271123增加">
+      <created>1566919381045</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1566919381046</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="256117000" />
+    <option name="totallyTimeSpent" value="256798000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -514,7 +516,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
     <layout>
       <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="1" side_tool="true" />
@@ -566,7 +568,8 @@
     <MESSAGE value="201908250810增加" />
     <MESSAGE value="201908260916增加" />
     <MESSAGE value="201908261123增加" />
-    <option name="LAST_COMMIT_MESSAGE" value="201908261123增加" />
+    <MESSAGE value="201908271123增加" />
+    <option name="LAST_COMMIT_MESSAGE" value="201908271123增加" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
