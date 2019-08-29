@@ -1,44 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9faf001d-7cba-403b-a27b-dd12e82ddb7d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Beautiful Soup/bsp_19.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Beautiful Soup/bsp_20.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Beautiful Soup/bsp_21.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Beautiful Soup/bsp_22.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Beautiful Soup/bsp_23.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Beautiful Soup/bsp_24.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Beautiful Soup/bsp_25.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Beautiful Soup/bsp_26.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyquery/demo.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyquery/pq_01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyquery/pq_02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyquery/pq_03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyquery/pq_04.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyquery/pq_05.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyquery/pq_06.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyquery/pq_07.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyquery/pq_08.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyquery/pq_09.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyquery/pq_10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyquery/pq_11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyquery/pq_12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyquery/pq_13.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyquery/pq_14.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyquery/pq_15.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyquery/pq_16.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyquery/pq_17.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyquery/pq_18.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyquery/pq_19.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyquery/pq_20.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyquery/pq_21.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyquery/pq_22.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyquery/pq_24.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyquery/pq_25.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyquery/pq_26.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/正则表达式.docx" beforeDir="false" afterPath="$PROJECT_DIR$/正则表达式.docx" afterDir="false" />
-    </list>
+    <list default="true" id="9faf001d-7cba-403b-a27b-dd12e82ddb7d" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -135,6 +98,10 @@
       <pane id="ProjectPane">
         <subPane>
           <expand>
+            <path>
+              <item name="MS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MS" type="462c0819:PsiDirectoryNode" />
+            </path>
             <path>
               <item name="MS" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
@@ -331,7 +298,7 @@
       <workItem from="1566781463349" duration="854000" />
       <workItem from="1566821482880" duration="5604000" />
       <workItem from="1566919078195" duration="952000" />
-      <workItem from="1566952647914" duration="24426000" />
+      <workItem from="1566952647914" duration="24519000" />
     </task>
     <task id="LOCAL-00001" summary="20190811">
       <created>1565526004138</created>
@@ -536,11 +503,18 @@
       <option name="project" value="LOCAL" />
       <updated>1566919381046</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="201908281601增加">
+      <created>1566979313346</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1566979313346</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="281224000" />
+    <option name="totallyTimeSpent" value="281317000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -559,7 +533,7 @@
       <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.17170954" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.2082153" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4977307" visible="true" weight="0.04918033" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4977307" weight="0.04918033" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.5180328" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -605,7 +579,8 @@
     <MESSAGE value="201908260916增加" />
     <MESSAGE value="201908261123增加" />
     <MESSAGE value="201908271123增加" />
-    <option name="LAST_COMMIT_MESSAGE" value="201908271123增加" />
+    <MESSAGE value="201908281601增加" />
+    <option name="LAST_COMMIT_MESSAGE" value="201908281601增加" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
