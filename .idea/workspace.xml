@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9faf001d-7cba-403b-a27b-dd12e82ddb7d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Redis/redis_01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Redis/redis_02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Redis/redis_03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Redis/redis_04.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Redis/redis_05.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Redis/string_01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Redis/list_01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Redis/list_02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Redis/set_01.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/正则表达式.docx" beforeDir="false" afterPath="$PROJECT_DIR$/正则表达式.docx" afterDir="false" />
     </list>
@@ -18,21 +15,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Redis/string_01.py">
+        <entry file="file://$PROJECT_DIR$/Redis/set_01.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="9">
-              <caret line="70" selection-start-line="70" selection-end-line="70" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://E:/DevApp/Anaconda3/envs/python36/Lib/site-packages/redis/client.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="93">
-              <caret line="1218" column="31" selection-start-line="1218" selection-start-column="26" selection-end-line="1218" selection-end-column="31" />
+            <state relative-caret-position="52">
+              <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -58,9 +46,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Xpath/xpath_12.py" />
-        <option value="$PROJECT_DIR$/Xpath/xpath_13.py" />
-        <option value="$PROJECT_DIR$/Xpath/xpath_14.py" />
         <option value="$PROJECT_DIR$/Xpath/xpath_15.py" />
         <option value="$PROJECT_DIR$/Xpath/xpath_16.py" />
         <option value="$PROJECT_DIR$/Xpath/xpath_17.py" />
@@ -109,6 +94,9 @@
         <option value="$PROJECT_DIR$/Redis/redis_04.py" />
         <option value="$PROJECT_DIR$/Redis/redis_05.py" />
         <option value="$PROJECT_DIR$/Redis/string_01.py" />
+        <option value="$PROJECT_DIR$/Redis/list_01.py" />
+        <option value="$PROJECT_DIR$/Redis/list_02.py" />
+        <option value="$PROJECT_DIR$/Redis/set_01.py" />
       </list>
     </option>
   </component>
@@ -173,8 +161,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.string_01">
-    <configuration name="redis_02" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.list_01">
+    <configuration name="list_01" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="TEST190805" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -187,7 +175,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Redis/redis_02.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Redis/list_01.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -196,7 +184,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="redis_03" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="list_02" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="TEST190805" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -209,7 +197,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Redis/redis_03.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Redis/list_02.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -286,11 +274,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.list_01" />
+        <item itemvalue="Python.list_02" />
         <item itemvalue="Python.string_01" />
         <item itemvalue="Python.redis_05" />
         <item itemvalue="Python.redis_04" />
-        <item itemvalue="Python.redis_03" />
-        <item itemvalue="Python.redis_02" />
       </list>
     </recent_temporary>
   </component>
@@ -333,7 +321,9 @@
       <workItem from="1566821482880" duration="5604000" />
       <workItem from="1566919078195" duration="952000" />
       <workItem from="1566952647914" duration="24519000" />
-      <workItem from="1567040423920" duration="12817000" />
+      <workItem from="1567040423920" duration="13017000" />
+      <workItem from="1567141685977" duration="8405000" />
+      <workItem from="1567323432482" duration="218000" />
     </task>
     <task id="LOCAL-00001" summary="20190811">
       <created>1565526004138</created>
@@ -552,11 +542,18 @@
       <option name="project" value="LOCAL" />
       <updated>1567040489759</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="201908291601增加">
+      <created>1567068908394</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1567068908394</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="294134000" />
+    <option name="totallyTimeSpent" value="302957000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -569,14 +566,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="1" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="2" weight="0.17397882" />
+      <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.1785174" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.2082153" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4977307" visible="true" weight="0.90163934" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4977307" weight="0.28688523" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.5180328" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -594,6 +590,30 @@
       <window_info anchor="right" id="SciView" order="3" />
       <window_info anchor="right" id="Database" order="4" />
     </layout>
+    <layout-to-restore>
+      <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="1" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="2" visible="true" weight="0.1762481" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.2082153" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4977307" weight="0.28688523" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.5180328" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32786885" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49924356" weight="0.71967214" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50268096" side_tool="true" weight="0.6558074" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49731904" weight="0.63278687" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.757377" />
+      <window_info anchor="bottom" id="Messages" order="13" sideWeight="0.49924356" weight="0.3295082" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -623,7 +643,8 @@
     <MESSAGE value="201908261123增加" />
     <MESSAGE value="201908271123增加" />
     <MESSAGE value="201908281601增加" />
-    <option name="LAST_COMMIT_MESSAGE" value="201908281601增加" />
+    <MESSAGE value="201908291601增加" />
+    <option name="LAST_COMMIT_MESSAGE" value="201908291601增加" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
@@ -708,6 +729,7 @@
     <SUITE FILE_PATH="coverage/TEST190805$110_03_01.coverage" NAME="110_03_01 Coverage Results" MODIFIED="1566041512079" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/TEST190805$test0805_01.coverage" NAME="test0805_01 Coverage Results" MODIFIED="1565057046665" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/MS$pq_13.coverage" NAME="pq_13 Coverage Results" MODIFIED="1566968724911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyquery" />
+    <SUITE FILE_PATH="coverage/MS$list_02.coverage" NAME="list_02 Coverage Results" MODIFIED="1567154272296" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Redis" />
     <SUITE FILE_PATH="coverage/TEST190805$xpath_02.coverage" NAME="xpath_02 Coverage Results" MODIFIED="1566708085104" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Xpath" />
     <SUITE FILE_PATH="coverage/TEST190805$02_search_02.coverage" NAME="02_search_02 Coverage Results" MODIFIED="1566227765640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Regex" />
     <SUITE FILE_PATH="coverage/MS$urlunsplit_01.coverage" NAME="urlunsplit_01 Coverage Results" MODIFIED="1566448051647" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Urllib/parse" />
@@ -779,6 +801,7 @@
     <SUITE FILE_PATH="coverage/TEST190805$02.coverage" NAME="02 Coverage Results" MODIFIED="1565067432408" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/TEST190805$110_06.coverage" NAME="110_06 Coverage Results" MODIFIED="1566043462308" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/TEST190805$110_13_01.coverage" NAME="110_13_01 Coverage Results" MODIFIED="1566045486631" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MS$list_01.coverage" NAME="list_01 Coverage Results" MODIFIED="1567154291541" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Redis" />
     <SUITE FILE_PATH="coverage/MS$urlopen_05.coverage" NAME="urlopen_05 Coverage Results" MODIFIED="1566361682029" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Urllib/request" />
     <SUITE FILE_PATH="coverage/MS$bsp_21.coverage" NAME="bsp_21 Coverage Results" MODIFIED="1566955389436" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Beautiful Soup" />
     <SUITE FILE_PATH="coverage/TEST190805$09.coverage" NAME="09 Coverage Results" MODIFIED="1565318467026" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -854,33 +877,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Requests/proxies_03.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="21" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Requests/proxies_02.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="1" column="14" selection-end-line="1" selection-end-column="14" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Requests/auth_03.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="1" column="15" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
-          <folding>
-            <element signature="e#0#24#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Requests/auth_02.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="161">
@@ -1009,13 +1005,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="52">
           <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pyquery/pq_01.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="52">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="13" selection-end-column="3" />
         </state>
       </provider>
     </entry>
@@ -1215,10 +1204,38 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/pyquery/pq_01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="3" column="8" lean-forward="true" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Redis/string_01.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="9">
+        <state relative-caret-position="402">
           <caret line="70" selection-start-line="70" selection-end-line="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Redis/list_02.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="5" column="41" lean-forward="true" selection-start-line="5" selection-start-column="41" selection-end-line="5" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Redis/list_01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="45" column="23" lean-forward="true" selection-start-line="45" selection-start-column="23" selection-end-line="45" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Redis/set_01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
         </state>
       </provider>
     </entry>
