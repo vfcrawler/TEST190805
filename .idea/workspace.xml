@@ -2,8 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9faf001d-7cba-403b-a27b-dd12e82ddb7d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/MongoDB/mg_01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MongoDB/mg_02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MongoDB/mg_03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MongoDB/mg_04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MongoDB/mg_05.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MongoDB/mg_06.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MongoDB/mg_07.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MongoDB/mg_08.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MongoDB/mg_09.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MongoDB/mg_10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MongoDB/mg_11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MongoDB/mg_12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MongoDB/mg_13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Redis/hash_01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Redis/redis-dump_01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Redis/zset_01.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Redis/set_01.py" beforeDir="false" afterPath="$PROJECT_DIR$/Redis/set_01.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/正则表达式.docx" beforeDir="false" afterPath="$PROJECT_DIR$/正则表达式.docx" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,20 +29,50 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Redis/set_01.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MongoDB/mg_12.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="253">
-              <caret line="68" lean-forward="true" selection-start-line="68" selection-end-line="68" />
+            <state relative-caret-position="26">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/MongoDB/mg_13.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="203">
+              <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://D:/DevApp/Anaconda3/envs/python36/Lib/site-packages/redis/client.py">
+        <entry file="file://$PROJECT_DIR$/MongoDB/mg_11.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="131">
-              <caret line="1977" column="35" selection-start-line="1977" selection-start-column="30" selection-end-line="1977" selection-end-column="35" />
+            <state relative-caret-position="78">
+              <caret line="3" selection-start-line="3" selection-end-line="5" selection-end-column="26" />
+              <folding>
+                <element signature="e#0#31#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MongoDB/mg_10.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="208">
+              <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MongoDB/mg_09.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="110">
+              <caret line="10" column="8" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -53,24 +98,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Xpath/xpath_15.py" />
-        <option value="$PROJECT_DIR$/Xpath/xpath_16.py" />
-        <option value="$PROJECT_DIR$/Xpath/xpath_17.py" />
-        <option value="$PROJECT_DIR$/Xpath/xpath_18.py" />
-        <option value="$PROJECT_DIR$/Xpath/xpath_19.py" />
-        <option value="$PROJECT_DIR$/Beautiful Soup/bsp_01.py" />
-        <option value="$PROJECT_DIR$/Beautiful Soup/bsp_02.py" />
-        <option value="$PROJECT_DIR$/Beautiful Soup/bsp_03.py" />
-        <option value="$PROJECT_DIR$/Beautiful Soup/bsp_19.py" />
-        <option value="$PROJECT_DIR$/Beautiful Soup/bsp_20.py" />
-        <option value="$PROJECT_DIR$/Beautiful Soup/bsp_21.py" />
-        <option value="$PROJECT_DIR$/Beautiful Soup/bsp_22.py" />
-        <option value="$PROJECT_DIR$/Beautiful Soup/bsp_23.py" />
-        <option value="$PROJECT_DIR$/Beautiful Soup/bsp_24.py" />
-        <option value="$PROJECT_DIR$/Beautiful Soup/bsp_25.py" />
-        <option value="$PROJECT_DIR$/Beautiful Soup/bsp_26.py" />
-        <option value="$PROJECT_DIR$/pyquery/pq_01.py" />
-        <option value="$PROJECT_DIR$/pyquery/pq_02.py" />
         <option value="$PROJECT_DIR$/pyquery/pq_03.py" />
         <option value="$PROJECT_DIR$/pyquery/demo.html" />
         <option value="$PROJECT_DIR$/pyquery/pq_04.py" />
@@ -104,6 +131,24 @@
         <option value="$PROJECT_DIR$/Redis/list_01.py" />
         <option value="$PROJECT_DIR$/Redis/list_02.py" />
         <option value="$PROJECT_DIR$/Redis/set_01.py" />
+        <option value="$PROJECT_DIR$/Redis/zset_01.py" />
+        <option value="$PROJECT_DIR$/Redis/hash_01.py" />
+        <option value="$PROJECT_DIR$/Redis/redis_dump_01.py" />
+        <option value="$PROJECT_DIR$/Redis/redis-dump_01.py" />
+        <option value="$PROJECT_DIR$/MongoDB/mg_01.py" />
+        <option value="$PROJECT_DIR$/MongoDB/mg_02.py" />
+        <option value="$PROJECT_DIR$/MongoDB/mg_03.py" />
+        <option value="$PROJECT_DIR$/MongoDB/mg_04.py" />
+        <option value="$PROJECT_DIR$/MongoDB/mg_05.py" />
+        <option value="$PROJECT_DIR$/MongoDB/mogo_06.py" />
+        <option value="$PROJECT_DIR$/MongoDB/mg_06.py" />
+        <option value="$PROJECT_DIR$/MongoDB/mg_07.py" />
+        <option value="$PROJECT_DIR$/MongoDB/mg_08.py" />
+        <option value="$PROJECT_DIR$/MongoDB/mg_09.py" />
+        <option value="$PROJECT_DIR$/MongoDB/mg_10.py" />
+        <option value="$PROJECT_DIR$/MongoDB/mg_11.py" />
+        <option value="$PROJECT_DIR$/MongoDB/mg_12.py" />
+        <option value="$PROJECT_DIR$/MongoDB/mg_13.py" />
       </list>
     </option>
   </component>
@@ -124,13 +169,13 @@
         <subPane>
           <expand>
             <path>
-              <item name="TEST190805" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TEST190805" type="462c0819:PsiDirectoryNode" />
+              <item name="MS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MS" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="TEST190805" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TEST190805" type="462c0819:PsiDirectoryNode" />
-              <item name="Redis" type="462c0819:PsiDirectoryNode" />
+              <item name="MS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MS" type="462c0819:PsiDirectoryNode" />
+              <item name="MongoDB" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -164,8 +209,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.set_01">
-    <configuration name="list_01" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.mg_13">
+    <configuration name="mg_09" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="TEST190805" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -173,12 +218,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Redis" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MongoDB" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Redis/list_01.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MongoDB/mg_09.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -187,7 +232,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="list_02" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="mg_10" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="TEST190805" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -195,12 +240,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Redis" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MongoDB" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Redis/list_02.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MongoDB/mg_10.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -209,7 +254,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="redis_05" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="mg_11" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="TEST190805" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -217,12 +262,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Redis" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MongoDB" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Redis/redis_05.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MongoDB/mg_11.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -231,7 +276,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="set_01" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="mg_12" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="TEST190805" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -239,12 +284,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Redis" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MongoDB" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Redis/set_01.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MongoDB/mg_12.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -253,7 +298,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="string_01" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="mg_13" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="TEST190805" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -261,12 +306,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Redis" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MongoDB" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Redis/string_01.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MongoDB/mg_13.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -277,11 +322,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.set_01" />
-        <item itemvalue="Python.list_01" />
-        <item itemvalue="Python.list_02" />
-        <item itemvalue="Python.string_01" />
-        <item itemvalue="Python.redis_05" />
+        <item itemvalue="Python.mg_13" />
+        <item itemvalue="Python.mg_12" />
+        <item itemvalue="Python.mg_11" />
+        <item itemvalue="Python.mg_10" />
+        <item itemvalue="Python.mg_09" />
       </list>
     </recent_temporary>
   </component>
@@ -329,6 +374,10 @@
       <workItem from="1567323432482" duration="218000" />
       <workItem from="1567326766422" duration="2062000" />
       <workItem from="1567410430167" duration="4595000" />
+      <workItem from="1567472652880" duration="6886000" />
+      <workItem from="1567480746907" duration="6023000" />
+      <workItem from="1567556069315" duration="4196000" />
+      <workItem from="1567568163981" duration="10429000" />
     </task>
     <task id="LOCAL-00001" summary="20190811">
       <created>1565526004138</created>
@@ -558,7 +607,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="309614000" />
+    <option name="totallyTimeSpent" value="337148000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -570,15 +619,15 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="1" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="2" weight="0.18297587" />
+      <window_info content_ui="combo" id="Project" order="2" visible="true" weight="0.22239032" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.2082153" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4977307" visible="true" weight="0.19688386" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4977307" visible="true" weight="0.45737705" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.5180328" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -587,7 +636,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49924356" weight="0.71967214" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50268096" side_tool="true" weight="0.6558074" />
-      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49731904" weight="0.63278687" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49731904" weight="0.43114755" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.757377" />
       <window_info anchor="bottom" id="Messages" order="13" sideWeight="0.49924356" weight="0.3295082" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -660,219 +709,235 @@
     </watches-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/TEST190805$18.coverage" NAME="18 Coverage Results" MODIFIED="1565428789229" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/MS$get_06.coverage" NAME="get_06 Coverage Results" MODIFIED="1566534879729" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Requests" />
-    <SUITE FILE_PATH="coverage/TEST190805$xpath_16.coverage" NAME="xpath_16 Coverage Results" MODIFIED="1566726147202" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Xpath" />
-    <SUITE FILE_PATH="coverage/TEST190805$21.coverage" NAME="21 Coverage Results" MODIFIED="1565528695588" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MS$urlopen_01.coverage" NAME="urlopen_01 Coverage Results" MODIFIED="1566356927316" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Urllib/request" />
+    <SUITE FILE_PATH="coverage/TEST190805$01.coverage" NAME="01 Coverage Results" MODIFIED="1564994709087" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/TEST190805$21_01.coverage" NAME="21_01 Coverage Results" MODIFIED="1565528799088" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MS$pq_26.coverage" NAME="pq_26 Coverage Results" MODIFIED="1566978998361" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyquery" />
+    <SUITE FILE_PATH="coverage/TEST190805$bsp_02.coverage" NAME="bsp_02 Coverage Results" MODIFIED="1566822926937" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Beautiful Soup" />
+    <SUITE FILE_PATH="coverage/MS$request_03.coverage" NAME="request_03 Coverage Results" MODIFIED="1566358793183" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Urllib/request" />
     <SUITE FILE_PATH="coverage/TEST190805$110_03_04.coverage" NAME="110_03_04 Coverage Results" MODIFIED="1566043139731" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/TEST190805$bsp_03.coverage" NAME="bsp_03 Coverage Results" MODIFIED="1566826303518" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Beautiful Soup" />
-    <SUITE FILE_PATH="coverage/TEST190805$xpath_01.coverage" NAME="xpath_01 Coverage Results" MODIFIED="1566707911833" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Xpath" />
+    <SUITE FILE_PATH="coverage/TEST190805$xpath_13.coverage" NAME="xpath_13 Coverage Results" MODIFIED="1566724427056" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Xpath" />
+    <SUITE FILE_PATH="coverage/TEST190805$proxies_03.coverage" NAME="proxies_03 Coverage Results" MODIFIED="1566615678956" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Requests" />
     <SUITE FILE_PATH="coverage/TEST190805$preprared_request_02.coverage" NAME="preprared_request_02 Coverage Results" MODIFIED="1566640618532" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Requests" />
     <SUITE FILE_PATH="coverage/MS$pq_01.coverage" NAME="pq_01 Coverage Results" MODIFIED="1566960746056" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyquery" />
-    <SUITE FILE_PATH="coverage/TEST190805$03.coverage" NAME="03 Coverage Results" MODIFIED="1565075541220" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/MS$Opener_06.coverage" NAME="Opener_06 Coverage Results" MODIFIED="1566376328388" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Urllib/request" />
-    <SUITE FILE_PATH="coverage/MS$pq_06.coverage" NAME="pq_06 Coverage Results" MODIFIED="1566963711848" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyquery" />
-    <SUITE FILE_PATH="coverage/MS$requests_01.coverage" NAME="requests_01 Coverage Results" MODIFIED="1566459424976" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Requests" />
-    <SUITE FILE_PATH="coverage/MS$Opener_01.coverage" NAME="Opener_01 Coverage Results" MODIFIED="1566368917546" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Urllib/request" />
-    <SUITE FILE_PATH="coverage/MS$bsp_21.coverage" NAME="bsp_21 Coverage Results" MODIFIED="1566955389436" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Beautiful Soup" />
-    <SUITE FILE_PATH="coverage/MS$get_01.coverage" NAME="get_01 Coverage Results" MODIFIED="1566519800782" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Requests" />
-    <SUITE FILE_PATH="coverage/TEST190805$18_01.coverage" NAME="18_01 Coverage Results" MODIFIED="1565429840290" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/TEST190805$19_01.coverage" NAME="19_01 Coverage Results" MODIFIED="1565523951647" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/TEST190805$timeout_03.coverage" NAME="timeout_03 Coverage Results" MODIFIED="1566620321244" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Requests" />
-    <SUITE FILE_PATH="coverage/MS$02_search_03.coverage" NAME="02_search_03 Coverage Results" MODIFIED="1566264597143" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Regex" />
-    <SUITE FILE_PATH="coverage/TEST190805$36.coverage" NAME="36 Coverage Results" MODIFIED="1565840425959" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/MS$pq_16.coverage" NAME="pq_16 Coverage Results" MODIFIED="1566970711415" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyquery" />
-    <SUITE FILE_PATH="coverage/MS$HTTPError_02.coverage" NAME="HTTPError_02 Coverage Results" MODIFIED="1566438730460" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Urllib/error" />
-    <SUITE FILE_PATH="coverage/MS$pq_11.coverage" NAME="pq_11 Coverage Results" MODIFIED="1566967775867" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyquery" />
-    <SUITE FILE_PATH="coverage/TEST190805$xpath_08.coverage" NAME="xpath_08 Coverage Results" MODIFIED="1566722421800" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Xpath" />
-    <SUITE FILE_PATH="coverage/TEST190805$13.coverage" NAME="13 Coverage Results" MODIFIED="1565397455600" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/MS$quote_01.coverage" NAME="quote_01 Coverage Results" MODIFIED="1566452910313" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Urllib/parse" />
-    <SUITE FILE_PATH="coverage/MS$urlparse_06.coverage" NAME="urlparse_06 Coverage Results" MODIFIED="1566444146776" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Urllib/parse" />
-    <SUITE FILE_PATH="coverage/MS$04_sub_01.coverage" NAME="04_sub_01 Coverage Results" MODIFIED="1566267560825" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Regex" />
-    <SUITE FILE_PATH="coverage/TEST190805$10_01.coverage" NAME="10_01 Coverage Results" MODIFIED="1565318700493" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/MS$04_sub_04.coverage" NAME="04_sub_04 Coverage Results" MODIFIED="1566286779779" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Regex" />
-    <SUITE FILE_PATH="coverage/TEST190805$bsp_01.coverage" NAME="bsp_01 Coverage Results" MODIFIED="1566821738465" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Beautiful Soup" />
-    <SUITE FILE_PATH="coverage/MS$get_11.coverage" NAME="get_11 Coverage Results" MODIFIED="1566539972352" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Requests" />
-    <SUITE FILE_PATH="coverage/MS$robotparser_02.coverage" NAME="robotparser_02 Coverage Results" MODIFIED="1566458091512" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Urllib/robotparser" />
-    <SUITE FILE_PATH="coverage/TEST190805$13_01.coverage" NAME="13_01 Coverage Results" MODIFIED="1565425053095" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/TEST190805$37_01.coverage" NAME="37_01 Coverage Results" MODIFIED="1565844096896" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/MS$parse_qs_01.coverage" NAME="parse_qs_01 Coverage Results" MODIFIED="1566452057663" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Urllib/parse" />
-    <SUITE FILE_PATH="coverage/TEST190805$xpath_18.coverage" NAME="xpath_18 Coverage Results" MODIFIED="1566731841004" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Xpath" />
-    <SUITE FILE_PATH="coverage/TEST190805$36_01.coverage" NAME="36_01 Coverage Results" MODIFIED="1565840379572" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/MS$pq_24.coverage" NAME="pq_24 Coverage Results" MODIFIED="1566974681408" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyquery" />
-    <SUITE FILE_PATH="coverage/MS$redis_05.coverage" NAME="redis_05 Coverage Results" MODIFIED="1567064661399" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Redis" />
-    <SUITE FILE_PATH="coverage/MS$list_02.coverage" NAME="list_02 Coverage Results" MODIFIED="1567154272296" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Redis" />
-    <SUITE FILE_PATH="coverage/TEST190805$34.coverage" NAME="34 Coverage Results" MODIFIED="1565832179350" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/MS$pq_18.coverage" NAME="pq_18 Coverage Results" MODIFIED="1566971448101" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyquery" />
-    <SUITE FILE_PATH="coverage/MS$pq_21.coverage" NAME="pq_21 Coverage Results" MODIFIED="1566972810445" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyquery" />
-    <SUITE FILE_PATH="coverage/MS$redis_02.coverage" NAME="redis_02 Coverage Results" MODIFIED="1567058555311" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Redis" />
-    <SUITE FILE_PATH="coverage/TEST190805$13_03.coverage" NAME="13_03 Coverage Results" MODIFIED="1565425443044" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/TEST190805$set_01.coverage" NAME="set_01 Coverage Results" MODIFIED="1567412879513" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Redis" />
-    <SUITE FILE_PATH="coverage/MS$Opener_04.coverage" NAME="Opener_04 Coverage Results" MODIFIED="1566373275554" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Urllib/request" />
-    <SUITE FILE_PATH="coverage/MS$pq_26.coverage" NAME="pq_26 Coverage Results" MODIFIED="1566978998361" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyquery" />
-    <SUITE FILE_PATH="coverage/MS$get_14.coverage" NAME="get_14 Coverage Results" MODIFIED="1566546286398" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Requests" />
-    <SUITE FILE_PATH="coverage/TEST190805$31_01.coverage" NAME="31_01 Coverage Results" MODIFIED="1565790069237" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/TEST190805$xpath_11.coverage" NAME="xpath_11 Coverage Results" MODIFIED="1566723246070" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Xpath" />
-    <SUITE FILE_PATH="coverage/MS$get_08.coverage" NAME="get_08 Coverage Results" MODIFIED="1566535878964" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Requests" />
-    <SUITE FILE_PATH="coverage/MS$urlopen_05.coverage" NAME="urlopen_05 Coverage Results" MODIFIED="1566361682029" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Urllib/request" />
-    <SUITE FILE_PATH="coverage/TEST190805$110_03_02.coverage" NAME="110_03_02 Coverage Results" MODIFIED="1566042696831" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/MS$get_03.coverage" NAME="get_03 Coverage Results" MODIFIED="1566527358842" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Requests" />
-    <SUITE FILE_PATH="coverage/TEST190805$auth_03.coverage" NAME="auth_03 Coverage Results" MODIFIED="1566639325741" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Requests" />
-    <SUITE FILE_PATH="coverage/TEST190805$38_02.coverage" NAME="38_02 Coverage Results" MODIFIED="1565966873098" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/TEST190805$maoYanSpider_01.coverage" NAME="maoYanSpider_01 Coverage Results" MODIFIED="1566660604801" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sample/MaoYan" />
-    <SUITE FILE_PATH="coverage/MS$pq_13.coverage" NAME="pq_13 Coverage Results" MODIFIED="1566968724911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyquery" />
-    <SUITE FILE_PATH="coverage/MS$pq_22.coverage" NAME="pq_22 Coverage Results" MODIFIED="1566973682462" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyquery" />
-    <SUITE FILE_PATH="coverage/TEST190805$xpath_04.coverage" NAME="xpath_04 Coverage Results" MODIFIED="1566709586926" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Xpath" />
-    <SUITE FILE_PATH="coverage/TEST190805$xpath_13.coverage" NAME="xpath_13 Coverage Results" MODIFIED="1566724427056" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Xpath" />
-    <SUITE FILE_PATH="coverage/TEST190805$02_01.coverage" NAME="02_01 Coverage Results" MODIFIED="1565074575099" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/MS$pq_09.coverage" NAME="pq_09 Coverage Results" MODIFIED="1566966981180" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyquery" />
-    <SUITE FILE_PATH="coverage/TEST190805$101_02.coverage" NAME="101_02 Coverage Results" MODIFIED="1566040604225" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/TEST190805$timeout_01.coverage" NAME="timeout_01 Coverage Results" MODIFIED="1566619609379" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Requests" />
-    <SUITE FILE_PATH="coverage/TEST190805$58.coverage" NAME="58 Coverage Results" MODIFIED="1566008293113" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/TEST190805$02_search_02.coverage" NAME="02_search_02 Coverage Results" MODIFIED="1566227765640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Regex" />
-    <SUITE FILE_PATH="coverage/MS$Request_02.coverage" NAME="Request_02 Coverage Results" MODIFIED="1566363520492" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Urllib/request" />
-    <SUITE FILE_PATH="coverage/TEST190805$31_03.coverage" NAME="31_03 Coverage Results" MODIFIED="1565790050254" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/TEST190805$39_01.coverage" NAME="39_01 Coverage Results" MODIFIED="1566006409378" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/MS$pq_12.coverage" NAME="pq_12 Coverage Results" MODIFIED="1566968292346" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyquery" />
-    <SUITE FILE_PATH="coverage/MS$urlparse_01.coverage" NAME="urlparse_01 Coverage Results" MODIFIED="1566440487753" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Urllib/parse" />
-    <SUITE FILE_PATH="coverage/MS$03_findall_01.coverage" NAME="03_findall_01 Coverage Results" MODIFIED="1566269313486" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Regex" />
-    <SUITE FILE_PATH="coverage/TEST190805$08_01.coverage" NAME="08_01 Coverage Results" MODIFIED="1565318167157" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/TEST190805$timeout_02.coverage" NAME="timeout_02 Coverage Results" MODIFIED="1566619917087" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Requests" />
-    <SUITE FILE_PATH="coverage/MS$04_sub_02.coverage" NAME="04_sub_02 Coverage Results" MODIFIED="1566287675201" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Regex" />
-    <SUITE FILE_PATH="coverage/TEST190805$110_06.coverage" NAME="110_06 Coverage Results" MODIFIED="1566043462308" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/MS$Request_03.coverage" NAME="Request_03 Coverage Results" MODIFIED="1566364737433" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Urllib/request" />
-    <SUITE FILE_PATH="coverage/MS$bsp_26.coverage" NAME="bsp_26 Coverage Results" MODIFIED="1566958346910" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Beautiful Soup" />
-    <SUITE FILE_PATH="coverage/TEST190805$01.coverage" NAME="01 Coverage Results" MODIFIED="1564994709087" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/MS$redis_04.coverage" NAME="redis_04 Coverage Results" MODIFIED="1567062097643" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Redis" />
-    <SUITE FILE_PATH="coverage/MS$bsp_20.coverage" NAME="bsp_20 Coverage Results" MODIFIED="1566954853678" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Beautiful Soup" />
-    <SUITE FILE_PATH="coverage/MS$Opener_02.coverage" NAME="Opener_02 Coverage Results" MODIFIED="1566370003633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Urllib/request" />
-    <SUITE FILE_PATH="coverage/TEST190805$xpath_14.coverage" NAME="xpath_14 Coverage Results" MODIFIED="1566725134005" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Xpath" />
-    <SUITE FILE_PATH="coverage/TEST190805$110_03_03.coverage" NAME="110_03_03 Coverage Results" MODIFIED="1566042849537" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/MS$05_compile_01.coverage" NAME="05_compile_01 Coverage Results" MODIFIED="1566352178612" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Regex" />
-    <SUITE FILE_PATH="coverage/TEST190805$20.coverage" NAME="20 Coverage Results" MODIFIED="1565525563095" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/MS$unquote_01.coverage" NAME="unquote_01 Coverage Results" MODIFIED="1566453154583" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Urllib/parse" />
-    <SUITE FILE_PATH="coverage/TEST190805$14.coverage" NAME="14 Coverage Results" MODIFIED="1565425468280" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/MS$02_search_02.coverage" NAME="02_search_02 Coverage Results" MODIFIED="1566262641480" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Regex" />
-    <SUITE FILE_PATH="coverage/MS$get_13.coverage" NAME="get_13 Coverage Results" MODIFIED="1566545851982" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Requests" />
-    <SUITE FILE_PATH="coverage/TEST190805$08.coverage" NAME="08 Coverage Results" MODIFIED="1565313913520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/MS$get_07.coverage" NAME="get_07 Coverage Results" MODIFIED="1566535625428" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Requests" />
-    <SUITE FILE_PATH="coverage/MS$SSL_01.coverage" NAME="SSL_01 Coverage Results" MODIFIED="1566552633004" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Requests" />
-    <SUITE FILE_PATH="coverage/MS$urlopen_01.coverage" NAME="urlopen_01 Coverage Results" MODIFIED="1566356927316" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Urllib/request" />
-    <SUITE FILE_PATH="coverage/MS$get_10.coverage" NAME="get_10 Coverage Results" MODIFIED="1566538839969" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Requests" />
-    <SUITE FILE_PATH="coverage/TEST190805$05.coverage" NAME="05 Coverage Results" MODIFIED="1565229594712" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/MS$urlunparse_01.coverage" NAME="urlunparse_01 Coverage Results" MODIFIED="1566444641272" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Urllib/parse" />
-    <SUITE FILE_PATH="coverage/MS$urlparse_04.coverage" NAME="urlparse_04 Coverage Results" MODIFIED="1566442610792" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Urllib/parse" />
-    <SUITE FILE_PATH="coverage/TEST190805$11.coverage" NAME="11 Coverage Results" MODIFIED="1565353334563" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/MS$pq_03.coverage" NAME="pq_03 Coverage Results" MODIFIED="1566961713214" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyquery" />
-    <SUITE FILE_PATH="coverage/MS$proxies_01.coverage" NAME="proxies_01 Coverage Results" MODIFIED="1566553963120" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Requests" />
-    <SUITE FILE_PATH="coverage/MS$pq_19.coverage" NAME="pq_19 Coverage Results" MODIFIED="1566972081361" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyquery" />
-    <SUITE FILE_PATH="coverage/TEST190805$33.coverage" NAME="33 Coverage Results" MODIFIED="1565831851046" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/TEST190805$xpath_17.coverage" NAME="xpath_17 Coverage Results" MODIFIED="1566727437330" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Xpath" />
-    <SUITE FILE_PATH="coverage/MS$Opener_05.coverage" NAME="Opener_05 Coverage Results" MODIFIED="1566375586997" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Urllib/request" />
-    <SUITE FILE_PATH="coverage/TEST190805$40_01.coverage" NAME="40_01 Coverage Results" MODIFIED="1565968369248" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/MS$bsp_23.coverage" NAME="bsp_23 Coverage Results" MODIFIED="1566956895748" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Beautiful Soup" />
-    <SUITE FILE_PATH="coverage/MS$redis_01.coverage" NAME="redis_01 Coverage Results" MODIFIED="1567056007603" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Redis" />
-    <SUITE FILE_PATH="coverage/MS$bsp_22.coverage" NAME="bsp_22 Coverage Results" MODIFIED="1566955948990" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Beautiful Soup" />
-    <SUITE FILE_PATH="coverage/TEST190805$12.coverage" NAME="12 Coverage Results" MODIFIED="1565353650508" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/MS$bsp_19.coverage" NAME="bsp_19 Coverage Results" MODIFIED="1566953346649" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Beautiful Soup" />
-    <SUITE FILE_PATH="coverage/MS$pq_25.coverage" NAME="pq_25 Coverage Results" MODIFIED="1566975326719" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyquery" />
-    <SUITE FILE_PATH="coverage/TEST190805$09.coverage" NAME="09 Coverage Results" MODIFIED="1565318467026" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/TEST190805$xpath_07.coverage" NAME="xpath_07 Coverage Results" MODIFIED="1566719701938" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Xpath" />
-    <SUITE FILE_PATH="coverage/MS$urlparse_05.coverage" NAME="urlparse_05 Coverage Results" MODIFIED="1566443265720" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Urllib/parse" />
-    <SUITE FILE_PATH="coverage/MS$pq_10.coverage" NAME="pq_10 Coverage Results" MODIFIED="1566967354749" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyquery" />
-    <SUITE FILE_PATH="coverage/TEST190805$19_02.coverage" NAME="19_02 Coverage Results" MODIFIED="1565525213555" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/TEST190805$xpath_10.coverage" NAME="xpath_10 Coverage Results" MODIFIED="1566722892361" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Xpath" />
-    <SUITE FILE_PATH="coverage/MS$urlopen_04.coverage" NAME="urlopen_04 Coverage Results" MODIFIED="1566359512312" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Urllib/request" />
-    <SUITE FILE_PATH="coverage/MS$HTTPError_03.coverage" NAME="HTTPError_03 Coverage Results" MODIFIED="1566439334893" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Urllib/error" />
-    <SUITE FILE_PATH="coverage/MS$SSL_04.coverage" NAME="SSL_04 Coverage Results" MODIFIED="1566553144176" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Requests" />
-    <SUITE FILE_PATH="coverage/MS$string_01.coverage" NAME="string_01 Coverage Results" MODIFIED="1567068592547" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Redis" />
-    <SUITE FILE_PATH="coverage/TEST190805$37.coverage" NAME="37 Coverage Results" MODIFIED="1565843257881" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/TEST190805$bsp_02.coverage" NAME="bsp_02 Coverage Results" MODIFIED="1566822926937" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Beautiful Soup" />
-    <SUITE FILE_PATH="coverage/TEST190805$xpath_15.coverage" NAME="xpath_15 Coverage Results" MODIFIED="1566725838690" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Xpath" />
-    <SUITE FILE_PATH="coverage/TEST190805$83.coverage" NAME="83 Coverage Results" MODIFIED="1566011707706" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/TEST190805$19.coverage" NAME="19 Coverage Results" MODIFIED="1565524397256" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/MS$get_05.coverage" NAME="get_05 Coverage Results" MODIFIED="1566532225671" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Requests" />
-    <SUITE FILE_PATH="coverage/TEST190805$02.coverage" NAME="02 Coverage Results" MODIFIED="1565067432408" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/MS$list_01.coverage" NAME="list_01 Coverage Results" MODIFIED="1567154291541" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Redis" />
-    <SUITE FILE_PATH="coverage/TEST190805$05_02.coverage" NAME="05_02 Coverage Results" MODIFIED="1565231535889" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/MS$pq_05.coverage" NAME="pq_05 Coverage Results" MODIFIED="1566962569888" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyquery" />
-    <SUITE FILE_PATH="coverage/MS$pq_02.coverage" NAME="pq_02 Coverage Results" MODIFIED="1566961520336" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyquery" />
-    <SUITE FILE_PATH="coverage/MS$urlparse_03.coverage" NAME="urlparse_03 Coverage Results" MODIFIED="1566442279741" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Urllib/parse" />
-    <SUITE FILE_PATH="coverage/TEST190805$xpath_02.coverage" NAME="xpath_02 Coverage Results" MODIFIED="1566708085104" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Xpath" />
-    <SUITE FILE_PATH="coverage/MS$urlopen_02.coverage" NAME="urlopen_02 Coverage Results" MODIFIED="1566357352631" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Urllib/request" />
-    <SUITE FILE_PATH="coverage/TEST190805$21_02.coverage" NAME="21_02 Coverage Results" MODIFIED="1565533114710" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/TEST190805$110_13_01.coverage" NAME="110_13_01 Coverage Results" MODIFIED="1566045486631" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/MS$bsp_24.coverage" NAME="bsp_24 Coverage Results" MODIFIED="1566957696197" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Beautiful Soup" />
-    <SUITE FILE_PATH="coverage/TEST190805$110_14_01.coverage" NAME="110_14_01 Coverage Results" MODIFIED="1566047993085" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/MS$urlunparse_02.coverage" NAME="urlunparse_02 Coverage Results" MODIFIED="1566444754952" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Urllib/parse" />
-    <SUITE FILE_PATH="coverage/TEST190805$32.coverage" NAME="32 Coverage Results" MODIFIED="1565791344695" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/TEST190805$110_17_01.coverage" NAME="110_17_01 Coverage Results" MODIFIED="1566048919712" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/MS$HTTPError_01.coverage" NAME="HTTPError_01 Coverage Results" MODIFIED="1566438259257" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Urllib/error" />
-    <SUITE FILE_PATH="coverage/TEST190805$110_16_01.coverage" NAME="110_16_01 Coverage Results" MODIFIED="1566048709245" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/MS$pq_15.coverage" NAME="pq_15 Coverage Results" MODIFIED="1566971371163" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyquery" />
-    <SUITE FILE_PATH="coverage/TEST190805$proxies_02.coverage" NAME="proxies_02 Coverage Results" MODIFIED="1566611329264" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Requests" />
-    <SUITE FILE_PATH="coverage/TEST190805$40.coverage" NAME="40 Coverage Results" MODIFIED="1565968922985" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/MS$roborparse_01.coverage" NAME="roborparse_01 Coverage Results" MODIFIED="1566457642705" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Urllib/robotparser" />
-    <SUITE FILE_PATH="coverage/MS$urlencode_01.coverage" NAME="urlencode_01 Coverage Results" MODIFIED="1566451009575" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Urllib/parse" />
-    <SUITE FILE_PATH="coverage/MS$urlsplit_02.coverage" NAME="urlsplit_02 Coverage Results" MODIFIED="1566445526407" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Urllib/parse" />
-    <SUITE FILE_PATH="coverage/MS$pq_07.coverage" NAME="pq_07 Coverage Results" MODIFIED="1566964583668" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyquery" />
-    <SUITE FILE_PATH="coverage/TEST190805$110_12_01.coverage" NAME="110_12_01 Coverage Results" MODIFIED="1566044933165" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/TEST190805$110_03.coverage" NAME="110_03 Coverage Results" MODIFIED="1566041377753" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/TEST190805$test0805_01.coverage" NAME="test0805_01 Coverage Results" MODIFIED="1565057046665" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/TEST190805$39.coverage" NAME="39 Coverage Results" MODIFIED="1566006692484" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/TEST190805$10.coverage" NAME="10 Coverage Results" MODIFIED="1565318620168" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/TEST190805$xpath_05.coverage" NAME="xpath_05 Coverage Results" MODIFIED="1566710282525" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Xpath" />
-    <SUITE FILE_PATH="coverage/TEST190805$auth_01.coverage" NAME="auth_01 Coverage Results" MODIFIED="1566638178548" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Requests" />
-    <SUITE FILE_PATH="coverage/TEST190805$04.coverage" NAME="04 Coverage Results" MODIFIED="1565176263705" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/MS$bsp_25.coverage" NAME="bsp_25 Coverage Results" MODIFIED="1566958018076" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Beautiful Soup" />
-    <SUITE FILE_PATH="coverage/TEST190805$37_02.coverage" NAME="37_02 Coverage Results" MODIFIED="1565937833197" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/MS$urljoin_01.coverage" NAME="urljoin_01 Coverage Results" MODIFIED="1566449996282" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Urllib/parse" />
-    <SUITE FILE_PATH="coverage/TEST190805$06.coverage" NAME="06 Coverage Results" MODIFIED="1565315634174" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/TEST190805$xpath_19.coverage" NAME="xpath_19 Coverage Results" MODIFIED="1566734776598" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Xpath" />
-    <SUITE FILE_PATH="coverage/TEST190805$31_02.coverage" NAME="31_02 Coverage Results" MODIFIED="1565790127105" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/MS$SSL_02.coverage" NAME="SSL_02 Coverage Results" MODIFIED="1566552866972" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Requests" />
-    <SUITE FILE_PATH="coverage/TEST190805$prepared_request_01.coverage" NAME="prepared_request_01 Coverage Results" MODIFIED="1566640922101" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Requests" />
-    <SUITE FILE_PATH="coverage/TEST190805$110_01.coverage" NAME="110_01 Coverage Results" MODIFIED="1566040491832" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/MS$get_09.coverage" NAME="get_09 Coverage Results" MODIFIED="1566537566255" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Requests" />
-    <SUITE FILE_PATH="coverage/MS$redis_03.coverage" NAME="redis_03 Coverage Results" MODIFIED="1567059025659" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Redis" />
-    <SUITE FILE_PATH="coverage/TEST190805$01_01.coverage" NAME="01_01 Coverage Results" MODIFIED="1565057573882" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/MS$pq_04.coverage" NAME="pq_04 Coverage Results" MODIFIED="1566961945608" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyquery" />
-    <SUITE FILE_PATH="coverage/TEST190805$110_03_01.coverage" NAME="110_03_01 Coverage Results" MODIFIED="1566041512079" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/MS$Opener_03.coverage" NAME="Opener_03 Coverage Results" MODIFIED="1566372184168" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Urllib/request" />
-    <SUITE FILE_PATH="coverage/TEST190805$101_02_01.coverage" NAME="101_02_01 Coverage Results" MODIFIED="1566040788711" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/MS$04_sub_03.coverage" NAME="04_sub_03 Coverage Results" MODIFIED="1566290156439" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Regex" />
-    <SUITE FILE_PATH="coverage/TEST190805$05_01.coverage" NAME="05_01 Coverage Results" MODIFIED="1565231812627" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/MS$session_01.coverage" NAME="session_01 Coverage Results" MODIFIED="1566551420255" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Requests" />
-    <SUITE FILE_PATH="coverage/MS$urlparse_02.coverage" NAME="urlparse_02 Coverage Results" MODIFIED="1566441885324" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Urllib/parse" />
-    <SUITE FILE_PATH="coverage/TEST190805$21_03.coverage" NAME="21_03 Coverage Results" MODIFIED="1565533912663" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/TEST190805$xpath_09.coverage" NAME="xpath_09 Coverage Results" MODIFIED="1566722620885" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Xpath" />
-    <SUITE FILE_PATH="coverage/TEST190805$38_01.coverage" NAME="38_01 Coverage Results" MODIFIED="1565955790709" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/MS$urlunsplit_01.coverage" NAME="urlunsplit_01 Coverage Results" MODIFIED="1566448051647" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Urllib/parse" />
+    <SUITE FILE_PATH="coverage/TEST190805$34.coverage" NAME="34 Coverage Results" MODIFIED="1565832179350" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/TEST190805$session_01.coverage" NAME="session_01 Coverage Results" MODIFIED="1566640088793" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Requests" />
+    <SUITE FILE_PATH="coverage/MS$04_sub_01.coverage" NAME="04_sub_01 Coverage Results" MODIFIED="1566267560825" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Regex" />
+    <SUITE FILE_PATH="coverage/TEST190805$13_03.coverage" NAME="13_03 Coverage Results" MODIFIED="1565425443044" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TEST190805$06.coverage" NAME="06 Coverage Results" MODIFIED="1565315634174" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MS$Opener_03.coverage" NAME="Opener_03 Coverage Results" MODIFIED="1566372184168" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Urllib/request" />
+    <SUITE FILE_PATH="coverage/MS$mg_07.coverage" NAME="mg_07 Coverage Results" MODIFIED="1567583553324" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MongoDB" />
     <SUITE FILE_PATH="coverage/TEST190805$xpath_03.coverage" NAME="xpath_03 Coverage Results" MODIFIED="1566709158118" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Xpath" />
-    <SUITE FILE_PATH="coverage/TEST190805$07.coverage" NAME="07 Coverage Results" MODIFIED="1565313328960" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/MS$get_12.coverage" NAME="get_12 Coverage Results" MODIFIED="1566540481665" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Requests" />
+    <SUITE FILE_PATH="coverage/MS$get_10.coverage" NAME="get_10 Coverage Results" MODIFIED="1566538839969" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Requests" />
     <SUITE FILE_PATH="coverage/MS$pq_08.coverage" NAME="pq_08 Coverage Results" MODIFIED="1566966296831" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyquery" />
-    <SUITE FILE_PATH="coverage/TEST190805$44.coverage" NAME="44 Coverage Results" MODIFIED="1566007385758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/MS$Request_01.coverage" NAME="Request_01 Coverage Results" MODIFIED="1566362398505" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Urllib/request" />
-    <SUITE FILE_PATH="coverage/TEST190805$proxies_03.coverage" NAME="proxies_03 Coverage Results" MODIFIED="1566615678956" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Requests" />
-    <SUITE FILE_PATH="coverage/MS$pq_17.coverage" NAME="pq_17 Coverage Results" MODIFIED="1566971021920" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyquery" />
-    <SUITE FILE_PATH="coverage/TEST190805$38.coverage" NAME="38 Coverage Results" MODIFIED="1565939246609" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/TEST190805$auth_02.coverage" NAME="auth_02 Coverage Results" MODIFIED="1566638538774" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Requests" />
-    <SUITE FILE_PATH="coverage/TEST190805$02_search_01.coverage" NAME="02_search_01 Coverage Results" MODIFIED="1566227273912" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Regex" />
-    <SUITE FILE_PATH="coverage/MS$request_03.coverage" NAME="request_03 Coverage Results" MODIFIED="1566358793183" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Urllib/request" />
-    <SUITE FILE_PATH="coverage/TEST190805$35.coverage" NAME="35 Coverage Results" MODIFIED="1565833247990" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/MS$URLError_01.coverage" NAME="URLError_01 Coverage Results" MODIFIED="1566437381489" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Urllib/error" />
-    <SUITE FILE_PATH="coverage/MS$SSL_03.coverage" NAME="SSL_03 Coverage Results" MODIFIED="1566553017432" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Requests" />
-    <SUITE FILE_PATH="coverage/TEST190805$xpath_06.coverage" NAME="xpath_06 Coverage Results" MODIFIED="1566718344924" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Xpath" />
+    <SUITE FILE_PATH="coverage/MS$bsp_24.coverage" NAME="bsp_24 Coverage Results" MODIFIED="1566957696197" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Beautiful Soup" />
+    <SUITE FILE_PATH="coverage/MS$pq_03.coverage" NAME="pq_03 Coverage Results" MODIFIED="1566961713214" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyquery" />
+    <SUITE FILE_PATH="coverage/TEST190805$auth_03.coverage" NAME="auth_03 Coverage Results" MODIFIED="1566639325741" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Requests" />
+    <SUITE FILE_PATH="coverage/MS$mg_02.coverage" NAME="mg_02 Coverage Results" MODIFIED="1567580654954" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MongoDB" />
+    <SUITE FILE_PATH="coverage/TEST190805$110_03_02.coverage" NAME="110_03_02 Coverage Results" MODIFIED="1566042696831" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MS$redis_02.coverage" NAME="redis_02 Coverage Results" MODIFIED="1567058555311" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Redis" />
+    <SUITE FILE_PATH="coverage/MS$get_09.coverage" NAME="get_09 Coverage Results" MODIFIED="1566537566255" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Requests" />
     <SUITE FILE_PATH="coverage/MS$parse_qsl_01.coverage" NAME="parse_qsl_01 Coverage Results" MODIFIED="1566452231586" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Urllib/parse" />
+    <SUITE FILE_PATH="coverage/TEST190805$10_01.coverage" NAME="10_01 Coverage Results" MODIFIED="1565318700493" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TEST190805$31_01.coverage" NAME="31_01 Coverage Results" MODIFIED="1565790069237" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MS$04_sub_03.coverage" NAME="04_sub_03 Coverage Results" MODIFIED="1566290156439" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Regex" />
+    <SUITE FILE_PATH="coverage/MS$urlparse_02.coverage" NAME="urlparse_02 Coverage Results" MODIFIED="1566441885324" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Urllib/parse" />
+    <SUITE FILE_PATH="coverage/MS$pq_24.coverage" NAME="pq_24 Coverage Results" MODIFIED="1566974681408" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyquery" />
+    <SUITE FILE_PATH="coverage/TEST190805$02_search_01.coverage" NAME="02_search_01 Coverage Results" MODIFIED="1566227273912" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Regex" />
+    <SUITE FILE_PATH="coverage/TEST190805$39.coverage" NAME="39 Coverage Results" MODIFIED="1566006692484" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TEST190805$xpath_18.coverage" NAME="xpath_18 Coverage Results" MODIFIED="1566731841004" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Xpath" />
+    <SUITE FILE_PATH="coverage/MS$SSL_04.coverage" NAME="SSL_04 Coverage Results" MODIFIED="1566553144176" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Requests" />
+    <SUITE FILE_PATH="coverage/MS$pq_18.coverage" NAME="pq_18 Coverage Results" MODIFIED="1566971448101" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyquery" />
+    <SUITE FILE_PATH="coverage/TEST190805$xpath_11.coverage" NAME="xpath_11 Coverage Results" MODIFIED="1566723246070" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Xpath" />
+    <SUITE FILE_PATH="coverage/TEST190805$32.coverage" NAME="32 Coverage Results" MODIFIED="1565791344695" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MS$pq_16.coverage" NAME="pq_16 Coverage Results" MODIFIED="1566970711415" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyquery" />
+    <SUITE FILE_PATH="coverage/MS$SSL_01.coverage" NAME="SSL_01 Coverage Results" MODIFIED="1566552633004" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Requests" />
+    <SUITE FILE_PATH="coverage/TEST190805$19_01.coverage" NAME="19_01 Coverage Results" MODIFIED="1565523951647" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TEST190805$18_01.coverage" NAME="18_01 Coverage Results" MODIFIED="1565429840290" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TEST190805$39_01.coverage" NAME="39_01 Coverage Results" MODIFIED="1566006409378" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/MS$get_02.coverage" NAME="get_02 Coverage Results" MODIFIED="1566522473432" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Requests" />
-    <SUITE FILE_PATH="coverage/TEST190805$maoYanSpider.coverage" NAME="maoYanSpider Coverage Results" MODIFIED="1566697410529" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sample/MaoYan" />
-    <SUITE FILE_PATH="coverage/TEST190805$xpath_12.coverage" NAME="xpath_12 Coverage Results" MODIFIED="1566724201094" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Xpath" />
-    <SUITE FILE_PATH="coverage/MS$pq_20.coverage" NAME="pq_20 Coverage Results" MODIFIED="1566972461258" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyquery" />
-    <SUITE FILE_PATH="coverage/MS$pq_14.coverage" NAME="pq_14 Coverage Results" MODIFIED="1566969124997" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyquery" />
+    <SUITE FILE_PATH="coverage/TEST190805$37_01.coverage" NAME="37_01 Coverage Results" MODIFIED="1565844096896" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TEST190805$36_01.coverage" NAME="36_01 Coverage Results" MODIFIED="1565840379572" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MS$get_07.coverage" NAME="get_07 Coverage Results" MODIFIED="1566535625428" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Requests" />
+    <SUITE FILE_PATH="coverage/TEST190805$38_01.coverage" NAME="38_01 Coverage Results" MODIFIED="1565955790709" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MS$mg_10.coverage" NAME="mg_10 Coverage Results" MODIFIED="1567585198179" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MongoDB" />
+    <SUITE FILE_PATH="coverage/MS$Opener_05.coverage" NAME="Opener_05 Coverage Results" MODIFIED="1566375586997" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Urllib/request" />
+    <SUITE FILE_PATH="coverage/MS$HTTPError_02.coverage" NAME="HTTPError_02 Coverage Results" MODIFIED="1566438730460" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Urllib/error" />
+    <SUITE FILE_PATH="coverage/TEST190805$13_01.coverage" NAME="13_01 Coverage Results" MODIFIED="1565425053095" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TEST190805$xpath_05.coverage" NAME="xpath_05 Coverage Results" MODIFIED="1566710282525" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Xpath" />
+    <SUITE FILE_PATH="coverage/MS$mg_09.coverage" NAME="mg_09 Coverage Results" MODIFIED="1567584453554" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MongoDB" />
+    <SUITE FILE_PATH="coverage/MS$pq_11.coverage" NAME="pq_11 Coverage Results" MODIFIED="1566967775867" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyquery" />
+    <SUITE FILE_PATH="coverage/TEST190805$21.coverage" NAME="21 Coverage Results" MODIFIED="1565528695588" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TEST190805$maoYanSpider_01.coverage" NAME="maoYanSpider_01 Coverage Results" MODIFIED="1566660604801" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sample/MaoYan" />
+    <SUITE FILE_PATH="coverage/TEST190805$19.coverage" NAME="19 Coverage Results" MODIFIED="1565524397256" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TEST190805$13.coverage" NAME="13 Coverage Results" MODIFIED="1565397455600" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MS$SSL_03.coverage" NAME="SSL_03 Coverage Results" MODIFIED="1566553017432" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Requests" />
+    <SUITE FILE_PATH="coverage/TEST190805$01_01.coverage" NAME="01_01 Coverage Results" MODIFIED="1565057573882" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MS$hash_01.coverage" NAME="hash_01 Coverage Results" MODIFIED="1567478824972" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Redis" />
+    <SUITE FILE_PATH="coverage/TEST190805$xpath_16.coverage" NAME="xpath_16 Coverage Results" MODIFIED="1566726147202" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Xpath" />
+    <SUITE FILE_PATH="coverage/TEST190805$37_02.coverage" NAME="37_02 Coverage Results" MODIFIED="1565937833197" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TEST190805$110_01.coverage" NAME="110_01 Coverage Results" MODIFIED="1566040491832" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TEST190805$40.coverage" NAME="40 Coverage Results" MODIFIED="1565968922985" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/MS$urlsplit_01.coverage" NAME="urlsplit_01 Coverage Results" MODIFIED="1566445237912" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Urllib/parse" />
+    <SUITE FILE_PATH="coverage/MS$Request_01.coverage" NAME="Request_01 Coverage Results" MODIFIED="1566362398505" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Urllib/request" />
+    <SUITE FILE_PATH="coverage/MS$bsp_26.coverage" NAME="bsp_26 Coverage Results" MODIFIED="1566958346910" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Beautiful Soup" />
+    <SUITE FILE_PATH="coverage/TEST190805$31_02.coverage" NAME="31_02 Coverage Results" MODIFIED="1565790127105" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TEST190805$auth_01.coverage" NAME="auth_01 Coverage Results" MODIFIED="1566638178548" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Requests" />
+    <SUITE FILE_PATH="coverage/TEST190805$101_02_01.coverage" NAME="101_02_01 Coverage Results" MODIFIED="1566040788711" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TEST190805$110_03_01.coverage" NAME="110_03_01 Coverage Results" MODIFIED="1566041512079" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TEST190805$test0805_01.coverage" NAME="test0805_01 Coverage Results" MODIFIED="1565057046665" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MS$pq_13.coverage" NAME="pq_13 Coverage Results" MODIFIED="1566968724911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyquery" />
+    <SUITE FILE_PATH="coverage/MS$list_02.coverage" NAME="list_02 Coverage Results" MODIFIED="1567154272296" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Redis" />
+    <SUITE FILE_PATH="coverage/TEST190805$xpath_02.coverage" NAME="xpath_02 Coverage Results" MODIFIED="1566708085104" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Xpath" />
+    <SUITE FILE_PATH="coverage/TEST190805$02_search_02.coverage" NAME="02_search_02 Coverage Results" MODIFIED="1566227765640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Regex" />
+    <SUITE FILE_PATH="coverage/MS$urlunsplit_01.coverage" NAME="urlunsplit_01 Coverage Results" MODIFIED="1566448051647" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Urllib/parse" />
+    <SUITE FILE_PATH="coverage/MS$mg_12.coverage" NAME="mg_12 Coverage Results" MODIFIED="1567586653036" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MongoDB" />
+    <SUITE FILE_PATH="coverage/MS$mg_13.coverage" NAME="mg_13 Coverage Results" MODIFIED="1567587113497" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MongoDB" />
+    <SUITE FILE_PATH="coverage/MS$pq_14.coverage" NAME="pq_14 Coverage Results" MODIFIED="1566969124997" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyquery" />
+    <SUITE FILE_PATH="coverage/TEST190805$12.coverage" NAME="12 Coverage Results" MODIFIED="1565353650508" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TEST190805$21_03.coverage" NAME="21_03 Coverage Results" MODIFIED="1565533912663" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TEST190805$proxies_02.coverage" NAME="proxies_02 Coverage Results" MODIFIED="1566611329264" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Requests" />
+    <SUITE FILE_PATH="coverage/MS$get_12.coverage" NAME="get_12 Coverage Results" MODIFIED="1566540481665" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Requests" />
+    <SUITE FILE_PATH="coverage/MS$get_06.coverage" NAME="get_06 Coverage Results" MODIFIED="1566534879729" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Requests" />
+    <SUITE FILE_PATH="coverage/MS$requests_01.coverage" NAME="requests_01 Coverage Results" MODIFIED="1566459424976" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Requests" />
+    <SUITE FILE_PATH="coverage/MS$bsp_22.coverage" NAME="bsp_22 Coverage Results" MODIFIED="1566955948990" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Beautiful Soup" />
+    <SUITE FILE_PATH="coverage/MS$urlparse_05.coverage" NAME="urlparse_05 Coverage Results" MODIFIED="1566443265720" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Urllib/parse" />
+    <SUITE FILE_PATH="coverage/MS$robotparser_02.coverage" NAME="robotparser_02 Coverage Results" MODIFIED="1566458091512" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Urllib/robotparser" />
+    <SUITE FILE_PATH="coverage/MS$bsp_25.coverage" NAME="bsp_25 Coverage Results" MODIFIED="1566958018076" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Beautiful Soup" />
+    <SUITE FILE_PATH="coverage/TEST190805$xpath_12.coverage" NAME="xpath_12 Coverage Results" MODIFIED="1566724201094" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Xpath" />
+    <SUITE FILE_PATH="coverage/TEST190805$xpath_09.coverage" NAME="xpath_09 Coverage Results" MODIFIED="1566722620885" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Xpath" />
+    <SUITE FILE_PATH="coverage/TEST190805$xpath_06.coverage" NAME="xpath_06 Coverage Results" MODIFIED="1566718344924" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Xpath" />
+    <SUITE FILE_PATH="coverage/MS$bsp_19.coverage" NAME="bsp_19 Coverage Results" MODIFIED="1566953346649" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Beautiful Soup" />
+    <SUITE FILE_PATH="coverage/TEST190805$xpath_15.coverage" NAME="xpath_15 Coverage Results" MODIFIED="1566725838690" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Xpath" />
+    <SUITE FILE_PATH="coverage/MS$get_03.coverage" NAME="get_03 Coverage Results" MODIFIED="1566527358842" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Requests" />
+    <SUITE FILE_PATH="coverage/TEST190805$03.coverage" NAME="03 Coverage Results" MODIFIED="1565075541220" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TEST190805$set_01.coverage" NAME="set_01 Coverage Results" MODIFIED="1567412879513" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Redis" />
+    <SUITE FILE_PATH="coverage/MS$pq_10.coverage" NAME="pq_10 Coverage Results" MODIFIED="1566967354749" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyquery" />
+    <SUITE FILE_PATH="coverage/MS$pq_04.coverage" NAME="pq_04 Coverage Results" MODIFIED="1566961945608" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyquery" />
+    <SUITE FILE_PATH="coverage/MS$Opener_06.coverage" NAME="Opener_06 Coverage Results" MODIFIED="1566376328388" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Urllib/request" />
+    <SUITE FILE_PATH="coverage/MS$HTTPError_01.coverage" NAME="HTTPError_01 Coverage Results" MODIFIED="1566438259257" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Urllib/error" />
+    <SUITE FILE_PATH="coverage/MS$mg_03.coverage" NAME="mg_03 Coverage Results" MODIFIED="1567581303875" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MongoDB" />
+    <SUITE FILE_PATH="coverage/MS$redis_dump_01.coverage" NAME="redis-dump_01 Coverage Results" MODIFIED="1567559353625" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Redis" />
+    <SUITE FILE_PATH="coverage/TEST190805$timeout_02.coverage" NAME="timeout_02 Coverage Results" MODIFIED="1566619917087" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Requests" />
+    <SUITE FILE_PATH="coverage/MS$pq_17.coverage" NAME="pq_17 Coverage Results" MODIFIED="1566971021920" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyquery" />
+    <SUITE FILE_PATH="coverage/TEST190805$05_01.coverage" NAME="05_01 Coverage Results" MODIFIED="1565231812627" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TEST190805$44.coverage" NAME="44 Coverage Results" MODIFIED="1566007385758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TEST190805$38.coverage" NAME="38 Coverage Results" MODIFIED="1565939246609" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TEST190805$19_02.coverage" NAME="19_02 Coverage Results" MODIFIED="1565525213555" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TEST190805$xpath_04.coverage" NAME="xpath_04 Coverage Results" MODIFIED="1566709586926" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Xpath" />
+    <SUITE FILE_PATH="coverage/TEST190805$10.coverage" NAME="10 Coverage Results" MODIFIED="1565318620168" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TEST190805$prepared_request_01.coverage" NAME="prepared_request_01 Coverage Results" MODIFIED="1566640922101" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Requests" />
+    <SUITE FILE_PATH="coverage/MS$bsp_23.coverage" NAME="bsp_23 Coverage Results" MODIFIED="1566956895748" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Beautiful Soup" />
+    <SUITE FILE_PATH="coverage/TEST190805$07.coverage" NAME="07 Coverage Results" MODIFIED="1565313328960" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MS$02_search_02.coverage" NAME="02_search_02 Coverage Results" MODIFIED="1566262641480" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Regex" />
+    <SUITE FILE_PATH="coverage/MS$get_08.coverage" NAME="get_08 Coverage Results" MODIFIED="1566535878964" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Requests" />
+    <SUITE FILE_PATH="coverage/MS$redis_03.coverage" NAME="redis_03 Coverage Results" MODIFIED="1567059025659" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Redis" />
+    <SUITE FILE_PATH="coverage/TEST190805$35.coverage" NAME="35 Coverage Results" MODIFIED="1565833247990" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MS$parse_qs_01.coverage" NAME="parse_qs_01 Coverage Results" MODIFIED="1566452057663" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Urllib/parse" />
+    <SUITE FILE_PATH="coverage/MS$urlopen_02.coverage" NAME="urlopen_02 Coverage Results" MODIFIED="1566357352631" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Urllib/request" />
+    <SUITE FILE_PATH="coverage/MS$Request_03.coverage" NAME="Request_03 Coverage Results" MODIFIED="1566364737433" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Urllib/request" />
+    <SUITE FILE_PATH="coverage/MS$pq_25.coverage" NAME="pq_25 Coverage Results" MODIFIED="1566975326719" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyquery" />
+    <SUITE FILE_PATH="coverage/MS$pq_07.coverage" NAME="pq_07 Coverage Results" MODIFIED="1566964583668" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyquery" />
+    <SUITE FILE_PATH="coverage/MS$get_11.coverage" NAME="get_11 Coverage Results" MODIFIED="1566539972352" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Requests" />
+    <SUITE FILE_PATH="coverage/TEST190805$58.coverage" NAME="58 Coverage Results" MODIFIED="1566008293113" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MS$urlparse_06.coverage" NAME="urlparse_06 Coverage Results" MODIFIED="1566444146776" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Urllib/parse" />
+    <SUITE FILE_PATH="coverage/TEST190805$110_17_01.coverage" NAME="110_17_01 Coverage Results" MODIFIED="1566048919712" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MS$Opener_02.coverage" NAME="Opener_02 Coverage Results" MODIFIED="1566370003633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Urllib/request" />
+    <SUITE FILE_PATH="coverage/MS$pq_02.coverage" NAME="pq_02 Coverage Results" MODIFIED="1566961520336" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyquery" />
+    <SUITE FILE_PATH="coverage/TEST190805$xpath_19.coverage" NAME="xpath_19 Coverage Results" MODIFIED="1566734776598" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Xpath" />
+    <SUITE FILE_PATH="coverage/MS$urlparse_01.coverage" NAME="urlparse_01 Coverage Results" MODIFIED="1566440487753" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Urllib/parse" />
+    <SUITE FILE_PATH="coverage/MS$04_sub_02.coverage" NAME="04_sub_02 Coverage Results" MODIFIED="1566287675201" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Regex" />
+    <SUITE FILE_PATH="coverage/MS$mg_06.coverage" NAME="mg_06 Coverage Results" MODIFIED="1567582667819" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MongoDB" />
+    <SUITE FILE_PATH="coverage/MS$mg_01.coverage" NAME="mg_01 Coverage Results" MODIFIED="1567580352371" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MongoDB" />
+    <SUITE FILE_PATH="coverage/MS$pq_20.coverage" NAME="pq_20 Coverage Results" MODIFIED="1566972461258" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyquery" />
+    <SUITE FILE_PATH="coverage/TEST190805$bsp_03.coverage" NAME="bsp_03 Coverage Results" MODIFIED="1566826303518" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Beautiful Soup" />
+    <SUITE FILE_PATH="coverage/TEST190805$xpath_14.coverage" NAME="xpath_14 Coverage Results" MODIFIED="1566725134005" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Xpath" />
+    <SUITE FILE_PATH="coverage/MS$urlunparse_02.coverage" NAME="urlunparse_02 Coverage Results" MODIFIED="1566444754952" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Urllib/parse" />
+    <SUITE FILE_PATH="coverage/MS$quote_01.coverage" NAME="quote_01 Coverage Results" MODIFIED="1566452910313" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Urllib/parse" />
+    <SUITE FILE_PATH="coverage/MS$redis_05.coverage" NAME="redis_05 Coverage Results" MODIFIED="1567064661399" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Redis" />
+    <SUITE FILE_PATH="coverage/TEST190805$05_02.coverage" NAME="05_02 Coverage Results" MODIFIED="1565231535889" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MS$URLError_01.coverage" NAME="URLError_01 Coverage Results" MODIFIED="1566437381489" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Urllib/error" />
+    <SUITE FILE_PATH="coverage/MS$roborparse_01.coverage" NAME="roborparse_01 Coverage Results" MODIFIED="1566457642705" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Urllib/robotparser" />
+    <SUITE FILE_PATH="coverage/TEST190805$21_02.coverage" NAME="21_02 Coverage Results" MODIFIED="1565533114710" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TEST190805$110_14_01.coverage" NAME="110_14_01 Coverage Results" MODIFIED="1566047993085" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TEST190805$maoYanSpider.coverage" NAME="maoYanSpider Coverage Results" MODIFIED="1566697410529" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sample/MaoYan" />
+    <SUITE FILE_PATH="coverage/TEST190805$110_16_01.coverage" NAME="110_16_01 Coverage Results" MODIFIED="1566048709245" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TEST190805$110_12_01.coverage" NAME="110_12_01 Coverage Results" MODIFIED="1566044933165" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TEST190805$110_06.coverage" NAME="110_06 Coverage Results" MODIFIED="1566043462308" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TEST190805$02.coverage" NAME="02 Coverage Results" MODIFIED="1565067432408" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TEST190805$110_13_01.coverage" NAME="110_13_01 Coverage Results" MODIFIED="1566045486631" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MS$list_01.coverage" NAME="list_01 Coverage Results" MODIFIED="1567476917017" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Redis" />
+    <SUITE FILE_PATH="coverage/MS$urlopen_05.coverage" NAME="urlopen_05 Coverage Results" MODIFIED="1566361682029" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Urllib/request" />
+    <SUITE FILE_PATH="coverage/MS$bsp_21.coverage" NAME="bsp_21 Coverage Results" MODIFIED="1566955389436" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Beautiful Soup" />
+    <SUITE FILE_PATH="coverage/TEST190805$09.coverage" NAME="09 Coverage Results" MODIFIED="1565318467026" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MS$mg_04.coverage" NAME="mg_04 Coverage Results" MODIFIED="1567581538344" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MongoDB" />
+    <SUITE FILE_PATH="coverage/MS$urljoin_01.coverage" NAME="urljoin_01 Coverage Results" MODIFIED="1566449996282" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Urllib/parse" />
+    <SUITE FILE_PATH="coverage/TEST190805$timeout_01.coverage" NAME="timeout_01 Coverage Results" MODIFIED="1566619609379" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Requests" />
+    <SUITE FILE_PATH="coverage/MS$pq_22.coverage" NAME="pq_22 Coverage Results" MODIFIED="1566973682462" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyquery" />
+    <SUITE FILE_PATH="coverage/MS$session_01.coverage" NAME="session_01 Coverage Results" MODIFIED="1566551420255" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Requests" />
+    <SUITE FILE_PATH="coverage/MS$get_13.coverage" NAME="get_13 Coverage Results" MODIFIED="1566545851982" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Requests" />
+    <SUITE FILE_PATH="coverage/MS$pq_05.coverage" NAME="pq_05 Coverage Results" MODIFIED="1566962569888" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyquery" />
+    <SUITE FILE_PATH="coverage/MS$urlparse_04.coverage" NAME="urlparse_04 Coverage Results" MODIFIED="1566442610792" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Urllib/parse" />
+    <SUITE FILE_PATH="coverage/TEST190805$40_01.coverage" NAME="40_01 Coverage Results" MODIFIED="1565968369248" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TEST190805$83.coverage" NAME="83 Coverage Results" MODIFIED="1566011707706" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MS$urlopen_04.coverage" NAME="urlopen_04 Coverage Results" MODIFIED="1566359512312" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Urllib/request" />
+    <SUITE FILE_PATH="coverage/TEST190805$xpath_07.coverage" NAME="xpath_07 Coverage Results" MODIFIED="1566719701938" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Xpath" />
+    <SUITE FILE_PATH="coverage/TEST190805$38_02.coverage" NAME="38_02 Coverage Results" MODIFIED="1565966873098" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TEST190805$04.coverage" NAME="04 Coverage Results" MODIFIED="1565176263705" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MS$zset_01.coverage" NAME="zset_01 Coverage Results" MODIFIED="1567477328213" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Redis" />
+    <SUITE FILE_PATH="coverage/MS$03_findall_01.coverage" NAME="03_findall_01 Coverage Results" MODIFIED="1566269313486" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Regex" />
+    <SUITE FILE_PATH="coverage/MS$redis_01.coverage" NAME="redis_01 Coverage Results" MODIFIED="1567056007603" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Redis" />
+    <SUITE FILE_PATH="coverage/MS$get_14.coverage" NAME="get_14 Coverage Results" MODIFIED="1566546286398" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Requests" />
+    <SUITE FILE_PATH="coverage/TEST190805$37.coverage" NAME="37 Coverage Results" MODIFIED="1565843257881" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TEST190805$timeout_03.coverage" NAME="timeout_03 Coverage Results" MODIFIED="1566620321244" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Requests" />
+    <SUITE FILE_PATH="coverage/TEST190805$xpath_01.coverage" NAME="xpath_01 Coverage Results" MODIFIED="1566707911833" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Xpath" />
+    <SUITE FILE_PATH="coverage/TEST190805$xpath_10.coverage" NAME="xpath_10 Coverage Results" MODIFIED="1566722892361" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Xpath" />
+    <SUITE FILE_PATH="coverage/MS$bsp_20.coverage" NAME="bsp_20 Coverage Results" MODIFIED="1566954853678" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Beautiful Soup" />
+    <SUITE FILE_PATH="coverage/MS$pq_19.coverage" NAME="pq_19 Coverage Results" MODIFIED="1566972081361" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyquery" />
+    <SUITE FILE_PATH="coverage/MS$get_05.coverage" NAME="get_05 Coverage Results" MODIFIED="1566532225671" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Requests" />
+    <SUITE FILE_PATH="coverage/TEST190805$18.coverage" NAME="18 Coverage Results" MODIFIED="1565428789229" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MS$SSL_02.coverage" NAME="SSL_02 Coverage Results" MODIFIED="1566552866972" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Requests" />
+    <SUITE FILE_PATH="coverage/MS$Request_02.coverage" NAME="Request_02 Coverage Results" MODIFIED="1566363520492" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Urllib/request" />
+    <SUITE FILE_PATH="coverage/TEST190805$xpath_08.coverage" NAME="xpath_08 Coverage Results" MODIFIED="1566722421800" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Xpath" />
+    <SUITE FILE_PATH="coverage/TEST190805$101_02.coverage" NAME="101_02 Coverage Results" MODIFIED="1566040604225" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TEST190805$31_03.coverage" NAME="31_03 Coverage Results" MODIFIED="1565790050254" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MS$HTTPError_03.coverage" NAME="HTTPError_03 Coverage Results" MODIFIED="1566439334893" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Urllib/error" />
+    <SUITE FILE_PATH="coverage/MS$Opener_04.coverage" NAME="Opener_04 Coverage Results" MODIFIED="1566373275554" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Urllib/request" />
+    <SUITE FILE_PATH="coverage/MS$pq_06.coverage" NAME="pq_06 Coverage Results" MODIFIED="1566963711848" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyquery" />
+    <SUITE FILE_PATH="coverage/MS$mg_08.coverage" NAME="mg_08 Coverage Results" MODIFIED="1567583948701" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MongoDB" />
+    <SUITE FILE_PATH="coverage/MS$pq_12.coverage" NAME="pq_12 Coverage Results" MODIFIED="1566968292346" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyquery" />
+    <SUITE FILE_PATH="coverage/MS$urlencode_01.coverage" NAME="urlencode_01 Coverage Results" MODIFIED="1566451009575" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Urllib/parse" />
+    <SUITE FILE_PATH="coverage/TEST190805$08.coverage" NAME="08 Coverage Results" MODIFIED="1565313913520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TEST190805$bsp_01.coverage" NAME="bsp_01 Coverage Results" MODIFIED="1566821738465" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Beautiful Soup" />
+    <SUITE FILE_PATH="coverage/MS$string_01.coverage" NAME="string_01 Coverage Results" MODIFIED="1567068592547" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Redis" />
+    <SUITE FILE_PATH="coverage/TEST190805$36.coverage" NAME="36 Coverage Results" MODIFIED="1565840425959" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MS$05_compile_01.coverage" NAME="05_compile_01 Coverage Results" MODIFIED="1566352178612" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Regex" />
+    <SUITE FILE_PATH="coverage/TEST190805$11.coverage" NAME="11 Coverage Results" MODIFIED="1565353334563" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TEST190805$14.coverage" NAME="14 Coverage Results" MODIFIED="1565425468280" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TEST190805$05.coverage" NAME="05 Coverage Results" MODIFIED="1565229594712" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MS$unquote_01.coverage" NAME="unquote_01 Coverage Results" MODIFIED="1566453154583" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Urllib/parse" />
+    <SUITE FILE_PATH="coverage/MS$pq_21.coverage" NAME="pq_21 Coverage Results" MODIFIED="1566972810445" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyquery" />
+    <SUITE FILE_PATH="coverage/MS$pq_15.coverage" NAME="pq_15 Coverage Results" MODIFIED="1566971371163" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyquery" />
+    <SUITE FILE_PATH="coverage/MS$mg_11.coverage" NAME="mg_11 Coverage Results" MODIFIED="1567585815852" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MongoDB" />
+    <SUITE FILE_PATH="coverage/MS$Opener_01.coverage" NAME="Opener_01 Coverage Results" MODIFIED="1566368917546" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Urllib/request" />
+    <SUITE FILE_PATH="coverage/TEST190805$110_03.coverage" NAME="110_03 Coverage Results" MODIFIED="1566041377753" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MS$mg_05.coverage" NAME="mg_05 Coverage Results" MODIFIED="1567582083028" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MongoDB" />
+    <SUITE FILE_PATH="coverage/MS$pq_09.coverage" NAME="pq_09 Coverage Results" MODIFIED="1566966981180" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyquery" />
+    <SUITE FILE_PATH="coverage/TEST190805$xpath_17.coverage" NAME="xpath_17 Coverage Results" MODIFIED="1566727437330" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Xpath" />
+    <SUITE FILE_PATH="coverage/MS$04_sub_04.coverage" NAME="04_sub_04 Coverage Results" MODIFIED="1566286779779" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Regex" />
+    <SUITE FILE_PATH="coverage/MS$urlparse_03.coverage" NAME="urlparse_03 Coverage Results" MODIFIED="1566442279741" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Urllib/parse" />
+    <SUITE FILE_PATH="coverage/TEST190805$20.coverage" NAME="20 Coverage Results" MODIFIED="1565525563095" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TEST190805$08_01.coverage" NAME="08_01 Coverage Results" MODIFIED="1565318167157" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TEST190805$110_03_03.coverage" NAME="110_03_03 Coverage Results" MODIFIED="1566042849537" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TEST190805$auth_02.coverage" NAME="auth_02 Coverage Results" MODIFIED="1566638538774" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Requests" />
+    <SUITE FILE_PATH="coverage/TEST190805$33.coverage" NAME="33 Coverage Results" MODIFIED="1565831851046" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MS$get_01.coverage" NAME="get_01 Coverage Results" MODIFIED="1566519800782" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Requests" />
+    <SUITE FILE_PATH="coverage/TEST190805$02_01.coverage" NAME="02_01 Coverage Results" MODIFIED="1565074575099" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MS$proxies_01.coverage" NAME="proxies_01 Coverage Results" MODIFIED="1566553963120" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Requests" />
+    <SUITE FILE_PATH="coverage/MS$02_search_03.coverage" NAME="02_search_03 Coverage Results" MODIFIED="1566264597143" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Regex" />
+    <SUITE FILE_PATH="coverage/MS$urlsplit_02.coverage" NAME="urlsplit_02 Coverage Results" MODIFIED="1566445526407" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Urllib/parse" />
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="watch">
@@ -884,130 +949,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Requests/auth_01.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Beautiful Soup/bsp_01.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Beautiful Soup/bsp_02.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" selection-start-line="2" selection-end-line="17" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Beautiful Soup/bs_04.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Beautiful Soup/bsp_03.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="483">
-          <caret line="21" column="11" lean-forward="true" selection-start-line="21" selection-start-column="11" selection-end-line="21" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Beautiful Soup/bsp_18.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="26">
-          <caret line="1" selection-start-line="1" selection-end-line="19" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Beautiful Soup/bsp_19.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="26" column="22" selection-start-line="26" selection-start-column="22" selection-end-line="26" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Beautiful Soup/bsp_20.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="26">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="19" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Beautiful Soup/bsp_21.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="11" selection-start-line="11" selection-end-line="11" selection-end-column="37" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Beautiful Soup/bsp_22.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="14" column="36" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Beautiful Soup/bsp_23.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="20" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Beautiful Soup/bsp_24.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="20" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Beautiful Soup/bsp_25.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="20" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Beautiful Soup/bsp_26.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="20" column="20" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pyquery/demo.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="26">
-          <caret line="1" column="3" lean-forward="true" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pyquery/pq_03.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-          <folding>
-            <element signature="e#0#33#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pyquery/pq_02.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="52">
-          <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pyquery/pq_05.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="26">
@@ -1190,7 +1131,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://E:/DevApp/Anaconda3/envs/python36/Lib/site-packages/redis/client.py" />
     <entry file="file://$PROJECT_DIR$/pyquery/pq_01.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="78">
@@ -1205,6 +1145,21 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://D:/DevApp/Anaconda3/envs/python36/Lib/site-packages/redis/client.py" />
+    <entry file="file://$PROJECT_DIR$/Redis/set_01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1690">
+          <caret line="65" column="32" lean-forward="true" selection-start-line="65" selection-start-column="32" selection-end-line="65" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Redis/list_01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="8" selection-start-line="8" selection-end-line="8" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Redis/list_02.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="161">
@@ -1212,31 +1167,139 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Redis/list_01.py">
+    <entry file="file://E:/DevApp/Anaconda3/envs/python36/Lib/site-packages/redis/client.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="173">
-          <caret line="45" column="23" lean-forward="true" selection-start-line="45" selection-start-column="23" selection-end-line="45" selection-end-column="23" />
+        <state relative-caret-position="69602">
+          <caret line="2702" column="8" selection-start-line="2702" selection-start-column="8" selection-end-line="2702" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Redis/hash_01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="2" column="37" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Redis/zset_01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="705">
+          <caret line="59" column="12" selection-start-line="59" selection-start-column="12" selection-end-line="59" selection-end-column="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Redis/string_01.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="427">
-          <caret line="48" column="33" lean-forward="true" selection-start-line="48" selection-start-column="33" selection-end-line="48" selection-end-column="33" />
+        <state relative-caret-position="144">
+          <caret line="61" column="13" selection-start-line="61" selection-start-column="13" selection-end-line="61" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://D:/DevApp/Anaconda3/envs/python36/Lib/site-packages/redis/client.py">
+    <entry file="file://$PROJECT_DIR$/Redis/redis-dump_01.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="131">
-          <caret line="1977" column="35" selection-start-line="1977" selection-start-column="30" selection-end-line="1977" selection-end-column="35" />
+        <state relative-caret-position="208">
+          <caret line="8" column="23" lean-forward="true" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Redis/set_01.py">
+    <entry file="file://$PROJECT_DIR$/MongoDB/mg_01.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="68" lean-forward="true" selection-start-line="68" selection-end-line="68" />
+        <state relative-caret-position="52">
+          <caret line="2" column="49" selection-start-line="2" selection-start-column="49" selection-end-line="2" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MongoDB/mg_02.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MongoDB/mg_03.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MongoDB/mg_04.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MongoDB/mg_05.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MongoDB/mg_06.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="12" column="1" selection-start-line="5" selection-end-line="12" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MongoDB/mg_07.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="20" column="1" selection-start-line="5" selection-end-line="20" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MongoDB/mg_08.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/DevApp/Anaconda3/envs/python36/Lib/site-packages/pymongo/collection.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111">
+          <caret line="1242" column="29" selection-start-line="1242" selection-start-column="23" selection-end-line="1242" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MongoDB/mg_10.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MongoDB/mg_09.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="10" column="8" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MongoDB/mg_11.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="3" selection-start-line="3" selection-end-line="5" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MongoDB/mg_12.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MongoDB/mg_13.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
         </state>
       </provider>
     </entry>
