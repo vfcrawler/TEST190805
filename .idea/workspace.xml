@@ -2,19 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9faf001d-7cba-403b-a27b-dd12e82ddb7d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/File/txtfile_01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pymysql/py_03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pymysql/py_04.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pymysql/py_05.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pymysql/py_06.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pymysql/py_07.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pymysql/py_08.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pymysql/py_09.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pymysql/py_10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pymysql/pymysql_01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pymysql/pymysql_02.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/正则表达式.docx" beforeDir="false" afterPath="$PROJECT_DIR$/正则表达式.docx" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -320,7 +308,8 @@
       <workItem from="1567556069315" duration="4196000" />
       <workItem from="1567568163981" duration="10603000" />
       <workItem from="1567653981493" duration="10064000" />
-      <workItem from="1567729186442" duration="16148000" />
+      <workItem from="1567729186442" duration="16178000" />
+      <workItem from="1567759562112" duration="260000" />
     </task>
     <task id="LOCAL-00001" summary="20190811">
       <created>1565526004138</created>
@@ -560,11 +549,18 @@
       <option name="project" value="LOCAL" />
       <updated>1567673485463</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="201909061651增加">
+      <created>1567759280180</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1567759280180</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="363534000" />
+    <option name="totallyTimeSpent" value="363824000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -580,10 +576,10 @@
     <layout>
       <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="1" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.16868381" />
+      <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.1709531" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.2082153" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4969743" visible="true" weight="0.04918033" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4969743" weight="0.04918033" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.5180328" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -657,7 +653,8 @@
     <MESSAGE value="201908291601增加" />
     <MESSAGE value="201909041653增加" />
     <MESSAGE value="201909051651增加" />
-    <option name="LAST_COMMIT_MESSAGE" value="201909051651增加" />
+    <MESSAGE value="201909061651增加" />
+    <option name="LAST_COMMIT_MESSAGE" value="201909061651增加" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
