@@ -10,8 +10,9 @@ PASSWORD = '123456'
 
 class CrackGeetest():
     def __init__(self):
-        self.url = 'https://auth.geetest.com/login/'
+        self.url = 'https://auth.geetest.com/login'
         self.browser = webdriver.Chrome()
+        self.browser.get(self.url)
         self.wait = WebDriverWait(self.browser,20)
         self.email = EMAIL
         self.password = PASSWORD
@@ -32,7 +33,6 @@ class CrackGeetest():
     # # 点击验证按钮
     # button = get_geetest_button()
     # button.click()
-
 
     def get_screenshot(self):
         '''
