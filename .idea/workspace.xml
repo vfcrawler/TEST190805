@@ -2,12 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9faf001d-7cba-403b-a27b-dd12e82ddb7d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Crack/GeeTest/gee_03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PIL/01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PIL/PIL_01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Agent/sz_01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Crack/GeeTest/gee_04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Crack/TouClick/chaojiying.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Crack/TouClick/tou_01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sample/CrackGeetest/spider.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sample/CrackTouClick/spider.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Crack/GeeTest/bilibili_01.py" beforeDir="false" afterPath="$PROJECT_DIR$/Crack/GeeTest/bilibili_01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Crack/GeeTest/gee_01.py" beforeDir="false" afterPath="$PROJECT_DIR$/Crack/GeeTest/gee_01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Urllib/error/HTTPError_01.py" beforeDir="false" afterPath="$PROJECT_DIR$/Urllib/error/HTTPError_01.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/正则表达式.docx" beforeDir="false" afterPath="$PROJECT_DIR$/正则表达式.docx" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,32 +22,57 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Agent/sz_01.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="46">
+              <caret line="2" column="21" lean-forward="true" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Crack/GeeTest/bilibili_01.py">
+        <entry file="file://$PROJECT_DIR$/Urllib/error/HTTPError_01.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="355">
-              <caret line="326" column="26" lean-forward="true" selection-start-line="326" selection-start-column="26" selection-end-line="326" selection-end-column="26" />
+            <state relative-caret-position="161">
+              <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://D:/DevApp/Anaconda3/envs/python36/Lib/site-packages/selenium/webdriver/remote/errorhandler.py">
+        <entry file="file://$PROJECT_DIR$/Urllib/error/HTTPError_03.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="241" selection-start-line="241" selection-end-line="241" />
+            <state>
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Crack/GeeTest/img_normal.png">
-          <provider selected="true" editor-type-id="images" />
+        <entry file="file://$PROJECT_DIR$/Urllib/error/URLError_01.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="161">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+              <folding>
+                <element signature="e#0#21#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Crack/GeeTest/img_valid.png">
-          <provider selected="true" editor-type-id="images" />
+        <entry file="file://$PROJECT_DIR$/Urllib/error/HTTPError_02.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="69">
+              <caret line="4" column="32" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="32" />
+              <folding>
+                <element signature="e#0#21#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -67,14 +96,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/MongoDB/mogo_06.py" />
-        <option value="$PROJECT_DIR$/MongoDB/mg_06.py" />
-        <option value="$PROJECT_DIR$/MongoDB/mg_07.py" />
-        <option value="$PROJECT_DIR$/MongoDB/mg_08.py" />
-        <option value="$PROJECT_DIR$/MongoDB/mg_09.py" />
-        <option value="$PROJECT_DIR$/MongoDB/mg_10.py" />
-        <option value="$PROJECT_DIR$/MongoDB/mg_11.py" />
-        <option value="$PROJECT_DIR$/MongoDB/mg_12.py" />
         <option value="$PROJECT_DIR$/MongoDB/mg_13.py" />
         <option value="$PROJECT_DIR$/MongoDB/mg_14.py" />
         <option value="$PROJECT_DIR$/MongoDB/mg_15.py" />
@@ -114,10 +135,18 @@
         <option value="$PROJECT_DIR$/Crack/gestest_01.py" />
         <option value="$PROJECT_DIR$/Crack/GeeTest/gee_02.py" />
         <option value="$PROJECT_DIR$/Crack/GeeTest/test01.py" />
-        <option value="$PROJECT_DIR$/Crack/GeeTest/gee_01.py" />
         <option value="$PROJECT_DIR$/PIL/PIL_01.py" />
         <option value="$PROJECT_DIR$/Crack/GeeTest/222.py" />
         <option value="$PROJECT_DIR$/Crack/GeeTest/bilibili_01.py" />
+        <option value="$PROJECT_DIR$/Sample/CrackGeetest/bilibili.py" />
+        <option value="$PROJECT_DIR$/Crack/GeeTest/gee_01.py" />
+        <option value="$PROJECT_DIR$/Crack/GeeTest/gee_04.py" />
+        <option value="$PROJECT_DIR$/Crack/TouClick/tou_01.py" />
+        <option value="$PROJECT_DIR$/Sample/CrackTouClick/spider.py" />
+        <option value="$PROJECT_DIR$/Crack/TouClick/chaojiying.py" />
+        <option value="$PROJECT_DIR$/Urllib/error/HTTPError_02.py" />
+        <option value="$PROJECT_DIR$/Agent/sz_01.py" />
+        <option value="$PROJECT_DIR$/Urllib/error/HTTPError_01.py" />
       </list>
     </option>
   </component>
@@ -133,6 +162,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -143,38 +173,48 @@
             <path>
               <item name="TEST190805" type="b2602c69:ProjectViewProjectNode" />
               <item name="TEST190805" type="462c0819:PsiDirectoryNode" />
-              <item name="Crack" type="462c0819:PsiDirectoryNode" />
+              <item name="Urllib" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="TEST190805" type="b2602c69:ProjectViewProjectNode" />
               <item name="TEST190805" type="462c0819:PsiDirectoryNode" />
-              <item name="Crack" type="462c0819:PsiDirectoryNode" />
-              <item name="GeeTest" type="462c0819:PsiDirectoryNode" />
+              <item name="Urllib" type="462c0819:PsiDirectoryNode" />
+              <item name="error" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TEST190805" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TEST190805" type="462c0819:PsiDirectoryNode" />
+              <item name="Urllib" type="462c0819:PsiDirectoryNode" />
+              <item name="request" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TEST190805" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/PIL" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Crack/TouClick" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\PyWorkSpace\MS\Crack\ImageCode" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\PyWorkSpace\Study\TEST190805\Crack\TouClick" />
       <recent name="F:\PyWorkSpace\Study\TEST190805\PIL" />
       <recent name="E:\PyWorkSpace\MS\Crack" />
       <recent name="F:\PyWorkSpace\Study\TEST190805\Beautiful Soup" />
       <recent name="F:\PyWorkSpace\Study\TEST190805" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\PyWorkSpace\MS\Crack\ImageCode" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -189,7 +229,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.bilibili_01">
+  <component name="RunManager" selected="Python.sz_01">
     <configuration name="222" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="TEST190805" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -212,7 +252,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="PIL_01" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="CrackBiliGeetest" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="TEST190805" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -220,12 +260,34 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PIL" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Sample/CrackGeetest" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PIL/PIL_01.py" />
+      <option name="SCRIPT_NAME" value="F:\PyWorkSpace\Study\TEST190805\Sample\CrackGeetest\spider.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="HTTPError_01" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="TEST190805" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Urllib/error" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Urllib/error/HTTPError_01.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -256,7 +318,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="gee_01" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="sz_01" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="TEST190805" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -264,34 +326,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Crack/GeeTest" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Agent" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Crack/GeeTest/gee_01.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="mg_17" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="TEST190805" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MongoDB" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MongoDB/mg_17.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Agent/sz_01.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -302,11 +342,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.sz_01" />
+        <item itemvalue="Python.HTTPError_01" />
+        <item itemvalue="Python.CrackBiliGeetest" />
         <item itemvalue="Python.bilibili_01" />
         <item itemvalue="Python.222" />
-        <item itemvalue="Python.PIL_01" />
-        <item itemvalue="Python.mg_17" />
-        <item itemvalue="Python.gee_01" />
       </list>
     </recent_temporary>
   </component>
@@ -390,7 +430,10 @@
       <workItem from="1568422412134" duration="6618000" />
       <workItem from="1568448201379" duration="3027000" />
       <workItem from="1568451305812" duration="4590000" />
-      <workItem from="1568463058930" duration="16884000" />
+      <workItem from="1568463058930" duration="17165000" />
+      <workItem from="1568599441255" duration="11942000" />
+      <workItem from="1568684537060" duration="3673000" />
+      <workItem from="1568705734359" duration="89000" />
     </task>
     <task id="LOCAL-00001" summary="20190811">
       <created>1565526004138</created>
@@ -658,11 +701,18 @@
       <option name="project" value="LOCAL" />
       <updated>1568103992703</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="201909101651增加">
+      <created>1568560000576</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1568560000576</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="451945000" />
+    <option name="totallyTimeSpent" value="467930000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -679,10 +729,10 @@
     <layout>
       <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="1" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="2" visible="true" weight="0.18976545" />
+      <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.19616205" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.20607375" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4969743" visible="true" weight="0.32104123" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4969743" visible="true" weight="0.4370933" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3449024" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -691,7 +741,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49924356" weight="0.71967214" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5030257" side_tool="true" weight="0.41147542" />
-      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49731904" weight="0.47592068" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49731904" weight="0.47505423" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.7570499" />
       <window_info anchor="bottom" id="Messages" order="13" sideWeight="0.49924356" weight="0.3295082" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -837,7 +887,7 @@
     <SUITE FILE_PATH="coverage/MS$redis_02.coverage" NAME="redis_02 Coverage Results" MODIFIED="1567058555311" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Redis" />
     <SUITE FILE_PATH="coverage/TEST190805$13_03.coverage" NAME="13_03 Coverage Results" MODIFIED="1565425443044" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/MS$mg_17.coverage" NAME="mg_17 Coverage Results" MODIFIED="1567658284232" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MongoDB" />
-    <SUITE FILE_PATH="coverage/TEST190805$bilibili_01.coverage" NAME="bilibili_01 Coverage Results" MODIFIED="1568559861149" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Crack/GeeTest" />
+    <SUITE FILE_PATH="coverage/TEST190805$bilibili_01.coverage" NAME="bilibili_01 Coverage Results" MODIFIED="1568601509500" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Crack/GeeTest" />
     <SUITE FILE_PATH="coverage/TEST190805$set_01.coverage" NAME="set_01 Coverage Results" MODIFIED="1567412879513" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Redis" />
     <SUITE FILE_PATH="coverage/MS$Opener_04.coverage" NAME="Opener_04 Coverage Results" MODIFIED="1566373275554" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Urllib/request" />
     <SUITE FILE_PATH="coverage/MS$pq_26.coverage" NAME="pq_26 Coverage Results" MODIFIED="1566978998361" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyquery" />
@@ -924,6 +974,7 @@
     <SUITE FILE_PATH="coverage/MS$pq_25.coverage" NAME="pq_25 Coverage Results" MODIFIED="1566975326719" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyquery" />
     <SUITE FILE_PATH="coverage/TEST190805$09.coverage" NAME="09 Coverage Results" MODIFIED="1565318467026" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/TEST190805$xpath_07.coverage" NAME="xpath_07 Coverage Results" MODIFIED="1566719701938" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Xpath" />
+    <SUITE FILE_PATH="coverage/TEST190805$CrackBiliGeetest.coverage" NAME="CrackBiliGeetest Coverage Results" MODIFIED="1568602546195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sample/CrackGeetest" />
     <SUITE FILE_PATH="coverage/MS$urlparse_05.coverage" NAME="urlparse_05 Coverage Results" MODIFIED="1566443265720" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Urllib/parse" />
     <SUITE FILE_PATH="coverage/MS$pq_10.coverage" NAME="pq_10 Coverage Results" MODIFIED="1566967354749" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyquery" />
     <SUITE FILE_PATH="coverage/TEST190805$19_02.coverage" NAME="19_02 Coverage Results" MODIFIED="1565525213555" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -995,6 +1046,7 @@
     <SUITE FILE_PATH="coverage/TEST190805$110_01.coverage" NAME="110_01 Coverage Results" MODIFIED="1566040491832" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/MS$get_09.coverage" NAME="get_09 Coverage Results" MODIFIED="1566537566255" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Requests" />
     <SUITE FILE_PATH="coverage/MS$redis_03.coverage" NAME="redis_03 Coverage Results" MODIFIED="1567059025659" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Redis" />
+    <SUITE FILE_PATH="coverage/TEST190805$sz_01.coverage" NAME="sz_01 Coverage Results" MODIFIED="1568705770462" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Agent" />
     <SUITE FILE_PATH="coverage/TEST190805$01_01.coverage" NAME="01_01 Coverage Results" MODIFIED="1565057573882" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/MS$pq_04.coverage" NAME="pq_04 Coverage Results" MODIFIED="1566961945608" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyquery" />
     <SUITE FILE_PATH="coverage/TEST190805$110_03_01.coverage" NAME="110_03_01 Coverage Results" MODIFIED="1566041512079" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -1007,6 +1059,7 @@
     <SUITE FILE_PATH="coverage/MS$urlparse_02.coverage" NAME="urlparse_02 Coverage Results" MODIFIED="1566441885324" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Urllib/parse" />
     <SUITE FILE_PATH="coverage/TEST190805$21_03.coverage" NAME="21_03 Coverage Results" MODIFIED="1565533912663" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/TEST190805$xpath_09.coverage" NAME="xpath_09 Coverage Results" MODIFIED="1566722620885" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Xpath" />
+    <SUITE FILE_PATH="coverage/TEST190805$HTTPError_01.coverage" NAME="HTTPError_01 Coverage Results" MODIFIED="1568705439656" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Urllib/error" />
     <SUITE FILE_PATH="coverage/TEST190805$38_01.coverage" NAME="38_01 Coverage Results" MODIFIED="1565955790709" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/MS$urlunsplit_01.coverage" NAME="urlunsplit_01 Coverage Results" MODIFIED="1566448051647" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Urllib/parse" />
     <SUITE FILE_PATH="coverage/MS$mg_03.coverage" NAME="mg_03 Coverage Results" MODIFIED="1567581303875" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MongoDB" />
@@ -1056,65 +1109,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Crack/test_01.jpg" />
-    <entry file="file://$PROJECT_DIR$/Crack/test_02.png" />
-    <entry file="file://$PROJECT_DIR$/Crack/ImageCode/ocr_01.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-          <folding>
-            <element signature="e#0#21#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Crack/ImageCode/ocr_02.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="78">
-          <caret line="15" column="20" lean-forward="true" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
-          <folding>
-            <element signature="e#1#22#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Sample/CrackImageCode/test.jpg" />
-    <entry file="file://$PROJECT_DIR$/Sample/CrackImageCode/code.jpg" />
-    <entry file="file://$PROJECT_DIR$/Sample/CrackImageCode/crackImageCode.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="32" column="43" lean-forward="true" selection-start-line="32" selection-start-column="43" selection-end-line="32" selection-end-column="43" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Crack/ImageCode/ocr_04.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Crack/ImageCode/ocr_03.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="11" column="12" lean-forward="true" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
-          <folding>
-            <element signature="e#0#16#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Crack/ImageCode/gestest_01.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://E:/DevApp/Anaconda3/envs/python36/Lib/site-packages/PIL/Image.py" />
     <entry file="file://E:/DevApp/Anaconda3/envs/python36/Lib/site-packages/selenium/webdriver/remote/webdriver.py" />
     <entry file="file://E:/DevApp/Anaconda3/envs/python36/Lib/site-packages/selenium/webdriver/chrome/webdriver.py" />
     <entry file="file://E:/DevApp/Anaconda3/envs/python36/Lib/site-packages/selenium/webdriver/common/service.py" />
@@ -1233,16 +1227,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Crack/GeeTest/gee_01.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="431">
-          <caret line="47" column="22" lean-forward="true" selection-start-line="47" selection-start-column="22" selection-end-line="47" selection-end-column="22" />
-          <folding>
-            <element signature="e#0#22#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Crack/GeeTest/gee_03.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="161">
@@ -1253,23 +1237,118 @@
     <entry file="file://$PROJECT_DIR$/Crack/GeeTest/img_2.png" />
     <entry file="file://$PROJECT_DIR$/Crack/GeeTest/img_1.png" />
     <entry file="file://$PROJECT_DIR$/Crack/GeeTest/full.png" />
-    <entry file="file://$PROJECT_DIR$/Crack/GeeTest/img_valid.png">
-      <provider selected="true" editor-type-id="images" />
+    <entry file="file://D:/DevApp/Anaconda3/envs/python36/Lib/site-packages/selenium/webdriver/remote/errorhandler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="346">
+          <caret line="241" selection-start-line="241" selection-end-line="241" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Crack/GeeTest/img_normal.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://D:/DevApp/Anaconda3/envs/python36/Lib/site-packages/selenium/webdriver/remote/errorhandler.py">
+    <entry file="file://$PROJECT_DIR$/Crack/GeeTest/img_valid.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Crack/GeeTest/gee_01.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="241" selection-start-line="241" selection-end-line="241" />
+        <state relative-caret-position="320">
+          <caret line="35" lean-forward="true" selection-end-line="57" />
+          <folding>
+            <element signature="e#0#22#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/Chaojiying_Python/chaojiying.py" />
+    <entry file="file://$PROJECT_DIR$/Crack/GeeTest/gee_04.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="34" column="20" lean-forward="true" selection-start-line="34" selection-start-column="20" selection-end-line="34" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#22#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Crack/GeeTest/bilibili_01.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="355">
-          <caret line="326" column="26" lean-forward="true" selection-start-line="326" selection-start-column="26" selection-end-line="326" selection-end-column="26" />
+        <state relative-caret-position="345">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Crack/TouClick/tou_01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="20" lean-forward="true" selection-start-column="20" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sample/CrackGeetest/spider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Crack/TouClick/chaojiying.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="389">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
+          <folding>
+            <element signature="e#22#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sample/CrackTouClick/spider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Urllib/error/HTTPError_03.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Urllib/error/URLError_01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Urllib/error/HTTPError_02.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="4" column="32" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Agent/sz_01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="21" lean-forward="true" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Urllib/error/HTTPError_01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
         </state>
       </provider>
     </entry>

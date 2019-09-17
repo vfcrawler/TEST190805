@@ -44,6 +44,10 @@ class CrackGeetest():
 
         return screenshot
 
+
+
+
+
 if __name__ == '__main__':
     a = CrackGeetest()
     ret = a.get_screenshot()

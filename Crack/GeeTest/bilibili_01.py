@@ -220,7 +220,7 @@ class CrackBiliGeetest():
 
         v = 0 #初速度
 
-        distance += 14 #滑超过一段距离
+        # distance += 14 #滑超过一段距离
 
         a = 0
 
@@ -259,8 +259,8 @@ class CrackBiliGeetest():
         for x in tracks:  # 正向
             ActionChains(self.browser).move_by_offset(xoffset=x, yoffset=0).perform()
         time.sleep(0.01)
-        for x in back_tracks:  # 逆向
-            ActionChains(self.browser).move_by_offset(xoffset=x, yoffset=0).perform()
+        # for x in back_tracks:  # 逆向
+        #     ActionChains(self.browser).move_by_offset(xoffset=x, yoffset=0).perform()
         self.shake_mouse()
         time.sleep(0.01)
         ActionChains(self.browser).release().perform()
@@ -279,8 +279,8 @@ class CrackBiliGeetest():
                 self.delete_img_style()                         # 执行js代码，不带缺口的图片出现
                 img_2 = self.get_image(name='img_2')            # 获取不带缺口的图片
 
-                distance = self.get_gap(img_1,img_2) - BORDER    # 计算需要滑动的距离
-                tracks = self.get_track(distance)                # 计算轨迹
+                distance = self.get_gap(img_1,img_2) - BORDER   # 计算需要滑动的距离
+                tracks = self.get_track(distance)               # 计算轨迹
 
                 slider = self.get_slider_button()               # 捕获滑块按钮
 
@@ -289,22 +289,24 @@ class CrackBiliGeetest():
                 slider_box = self.wait.until(
                     EC.presence_of_element_located(
                         (
-                            By.XPATH,
-                            '/html/body/div[3]/div[2]/div[6]/div/div[1]/div[2]'
+                            By.CSS_SELECTOR,
+                            'body > div.geetest_panel.geetest_wind > div.geetest_panel_box.geetest_no_logo > div.geetest_panel_success'
                         )
                     )
                 )
 
-                if slider_box.get_attribute('class') == 'geetest_slider geetest_success':
+                if(slider_box):
                     print('已完成滑动验证码验证')
                     break
                 else:
                     print('验证失败,刷新验证码重新验证')
+
+
                     btn_refresh = self.wait.until(
                         EC.presence_of_element_located(
                             (
-                                By.XPATH,
-                                '/html/body/div[3]/div[2]/div[6]/div/div[2]/div/a[2]'
+                                By.CSS_SELECTOR,
+                                'body > div.geetest_panel.geetest_wind > div.geetest_panel_box.geetest_no_logo.geetest_panelshowslide > div.geetest_panel_next > div > div.geetest_panel > div > a.geetest_refresh_1'
                             )
                         )
                     )
